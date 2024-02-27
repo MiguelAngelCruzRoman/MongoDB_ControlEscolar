@@ -1,0 +1,2966 @@
+[{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef07d"
+  },
+  "primerNombre": "Micaela",
+  "segundoNombre": "José",
+  "apellidoPaterno": "Rincón",
+  "apellidoMaterno": "Fuentes",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": "1986-07-29T16:15:29.000Z"
+  },
+  "CURP": "JIG213FZH86D",
+  "NSS": {
+    "$numberLong": "72242703962"
+  },
+  "correoInstitucional": "sofiajaime@example.org",
+  "fechaInicioContrato": {
+    "$date": "2022-02-25T13:48:29.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2027-07-11T22:25:14.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 21099,
+  "jornadaLaboral": 13,
+  "experiencia": 4,
+  "areaConocimiento": "Biología"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef07e"
+  },
+  "primerNombre": "Trinidad",
+  "segundoNombre": "Elsa",
+  "apellidoPaterno": "Quiñónez",
+  "apellidoMaterno": "Cedillo",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1992-05-06T11:04:07.000Z"
+  },
+  "CURP": "MUZ110FQM43Y",
+  "NSS": {
+    "$numberLong": "89511254932"
+  },
+  "correoInstitucional": "xescalante@example.org",
+  "fechaInicioContrato": {
+    "$date": "2020-08-25T16:27:05.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2024-12-20T14:25:52.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 20196,
+  "jornadaLaboral": 0,
+  "experiencia": 7,
+  "areaConocimiento": "Informática"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef07f"
+  },
+  "primerNombre": "María José",
+  "segundoNombre": "Lorena",
+  "apellidoPaterno": "Curiel",
+  "apellidoMaterno": "Castillo",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-342116965000"
+    }
+  },
+  "CURP": "QUV110KZH79Y",
+  "NSS": {
+    "$numberLong": "58117374225"
+  },
+  "correoInstitucional": "bernardoiglesias@example.net",
+  "fechaInicioContrato": {
+    "$date": "2022-12-09T22:16:45.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2025-06-15T23:11:44.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 42163,
+  "jornadaLaboral": 38,
+  "experiencia": 9,
+  "areaConocimiento": "Matemáticas"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef080"
+  },
+  "primerNombre": "Ana Luisa",
+  "segundoNombre": "Armando",
+  "apellidoPaterno": "Serrano",
+  "apellidoMaterno": "Ponce",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1972-05-27T18:28:28.000Z"
+  },
+  "CURP": "BIC211QYH75G",
+  "NSS": {
+    "$numberLong": "85156932294"
+  },
+  "correoInstitucional": "yvega@example.org",
+  "fechaInicioContrato": {
+    "$date": "2022-10-20T10:17:42.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2024-12-26T06:38:49.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 81715,
+  "jornadaLaboral": 70,
+  "experiencia": 0,
+  "areaConocimiento": "Informática"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef081"
+  },
+  "primerNombre": "Rosa",
+  "segundoNombre": "Martha",
+  "apellidoPaterno": "Briseño",
+  "apellidoMaterno": "Urrutia",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-177819888000"
+    }
+  },
+  "CURP": "KUF001VZM39S",
+  "NSS": {
+    "$numberLong": "75024714164"
+  },
+  "correoInstitucional": "umadera@example.com",
+  "fechaInicioContrato": {
+    "$date": "2023-02-22T00:12:51.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2026-12-23T20:27:17.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 91975,
+  "jornadaLaboral": 58,
+  "experiencia": 4,
+  "areaConocimiento": "Matemáticas"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef082"
+  },
+  "primerNombre": "Sonia",
+  "segundoNombre": "Berta",
+  "apellidoPaterno": "Aranda",
+  "apellidoMaterno": "Tirado",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-416638598000"
+    }
+  },
+  "CURP": "CEP703ZHM14B",
+  "NSS": {
+    "$numberLong": "98195316063"
+  },
+  "correoInstitucional": "luevanonatalia@example.org",
+  "fechaInicioContrato": {
+    "$date": "2022-02-05T19:33:16.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2024-06-01T15:43:05.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 57010,
+  "jornadaLaboral": 62,
+  "experiencia": 5,
+  "areaConocimiento": "Biología"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef083"
+  },
+  "primerNombre": "Camila",
+  "segundoNombre": "Fidel",
+  "apellidoPaterno": "Farías",
+  "apellidoMaterno": "Soria",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1983-12-05T04:58:34.000Z"
+  },
+  "CURP": "NIL011YJM83H",
+  "NSS": {
+    "$numberLong": "50733200437"
+  },
+  "correoInstitucional": "anel39@example.com",
+  "fechaInicioContrato": {
+    "$date": "2023-03-17T22:44:53.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2024-07-31T22:00:07.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 46398,
+  "jornadaLaboral": 80,
+  "experiencia": 4,
+  "areaConocimiento": "Física"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef084"
+  },
+  "primerNombre": "Cynthia",
+  "segundoNombre": "César",
+  "apellidoPaterno": "Becerra",
+  "apellidoMaterno": "Olivárez",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-416854661000"
+    }
+  },
+  "CURP": "MES302PBM67D",
+  "NSS": {
+    "$numberLong": "86607260972"
+  },
+  "correoInstitucional": "veronica11@example.net",
+  "fechaInicioContrato": {
+    "$date": "2020-09-13T00:42:32.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2025-07-03T00:17:16.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 70759,
+  "jornadaLaboral": 56,
+  "experiencia": 6,
+  "areaConocimiento": "Matemáticas"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef085"
+  },
+  "primerNombre": "Elsa",
+  "segundoNombre": "Elena",
+  "apellidoPaterno": "Cabrera",
+  "apellidoMaterno": "de León",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-23089836000"
+    }
+  },
+  "CURP": "JIP611RTM75Y",
+  "NSS": {
+    "$numberLong": "7789554927"
+  },
+  "correoInstitucional": "luis-manuelpelayo@example.com",
+  "fechaInicioContrato": {
+    "$date": "2021-11-05T06:14:42.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2025-03-28T18:35:50.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 22874,
+  "jornadaLaboral": 51,
+  "experiencia": 2,
+  "areaConocimiento": "Física"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef086"
+  },
+  "primerNombre": "Julia",
+  "segundoNombre": "Adán",
+  "apellidoPaterno": "Tijerina",
+  "apellidoMaterno": "Carreón",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-348285673000"
+    }
+  },
+  "CURP": "FOZ600TNH87Y",
+  "NSS": {
+    "$numberLong": "49257541127"
+  },
+  "correoInstitucional": "madridmitzy@example.net",
+  "fechaInicioContrato": {
+    "$date": "2022-09-20T00:49:43.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2028-10-30T08:52:16.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 69404,
+  "jornadaLaboral": 26,
+  "experiencia": 9,
+  "areaConocimiento": "Biología"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef087"
+  },
+  "primerNombre": "Nancy",
+  "segundoNombre": "Alvaro",
+  "apellidoPaterno": "de la Fuente",
+  "apellidoMaterno": "Cornejo",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": "1976-02-28T20:09:23.000Z"
+  },
+  "CURP": "VIG102LMH34Z",
+  "NSS": {
+    "$numberLong": "20671816343"
+  },
+  "correoInstitucional": "qberrios@example.org",
+  "fechaInicioContrato": {
+    "$date": "2020-07-10T02:58:02.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2026-07-09T03:49:02.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 96236,
+  "jornadaLaboral": 58,
+  "experiencia": 2,
+  "areaConocimiento": "Física"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef088"
+  },
+  "primerNombre": "Darío",
+  "segundoNombre": "Noemí",
+  "apellidoPaterno": "Maya",
+  "apellidoMaterno": "Urbina",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-428443499000"
+    }
+  },
+  "CURP": "VAW513YYM49B",
+  "NSS": {
+    "$numberLong": "37821902233"
+  },
+  "correoInstitucional": "franciscocortez@example.net",
+  "fechaInicioContrato": {
+    "$date": "2019-08-29T16:58:17.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2025-01-31T13:28:05.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 84130,
+  "jornadaLaboral": 91,
+  "experiencia": 7,
+  "areaConocimiento": "Biología"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef089"
+  },
+  "primerNombre": "Francisco Javier",
+  "segundoNombre": "Perla",
+  "apellidoPaterno": "Negrón",
+  "apellidoMaterno": "Martínez",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-282151733000"
+    }
+  },
+  "CURP": "RAF602YQH63X",
+  "NSS": {
+    "$numberLong": "6827036060"
+  },
+  "correoInstitucional": "emena@example.net",
+  "fechaInicioContrato": {
+    "$date": "2024-02-21T21:30:30.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2024-04-29T12:40:07.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 73167,
+  "jornadaLaboral": 19,
+  "experiencia": 0,
+  "areaConocimiento": "Física"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef08a"
+  },
+  "primerNombre": "Héctor",
+  "segundoNombre": "Teodoro",
+  "apellidoPaterno": "Alvarado",
+  "apellidoMaterno": "de Anda",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1974-07-31T20:08:39.000Z"
+  },
+  "CURP": "JIG500WDM71K",
+  "NSS": {
+    "$numberLong": "64601316621"
+  },
+  "correoInstitucional": "franciscorodriguez@example.org",
+  "fechaInicioContrato": {
+    "$date": "2023-02-05T22:04:10.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2028-06-05T18:58:17.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 64629,
+  "jornadaLaboral": 22,
+  "experiencia": 5,
+  "areaConocimiento": "Física"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef08b"
+  },
+  "primerNombre": "Bernardo",
+  "segundoNombre": "Alma",
+  "apellidoPaterno": "Alonso",
+  "apellidoMaterno": "Urrutia",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-172700520000"
+    }
+  },
+  "CURP": "JEW901KSM84J",
+  "NSS": {
+    "$numberLong": "95565165662"
+  },
+  "correoInstitucional": "guillermofigueroa@example.org",
+  "fechaInicioContrato": {
+    "$date": "2022-02-21T22:07:29.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2027-11-23T13:05:39.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 63982,
+  "jornadaLaboral": 26,
+  "experiencia": 7,
+  "areaConocimiento": "Matemáticas"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef08c"
+  },
+  "primerNombre": "Olivia",
+  "segundoNombre": "Daniela",
+  "apellidoPaterno": "Mares",
+  "apellidoMaterno": "Balderas",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1983-05-14T17:29:27.000Z"
+  },
+  "CURP": "ROV202XGH57Y",
+  "NSS": {
+    "$numberLong": "89622038837"
+  },
+  "correoInstitucional": "lorena68@example.com",
+  "fechaInicioContrato": {
+    "$date": "2022-10-10T14:29:34.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2026-11-19T09:16:55.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 19242,
+  "jornadaLaboral": 66,
+  "experiencia": 8,
+  "areaConocimiento": "Física"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef08d"
+  },
+  "primerNombre": "Porfirio",
+  "segundoNombre": "Gregorio",
+  "apellidoPaterno": "Haro",
+  "apellidoMaterno": "Quiñónez",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-332836529000"
+    }
+  },
+  "CURP": "BEW103RRH14D",
+  "NSS": {
+    "$numberLong": "36446050368"
+  },
+  "correoInstitucional": "ferreresperanza@example.net",
+  "fechaInicioContrato": {
+    "$date": "2020-03-22T22:23:55.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2027-12-09T12:55:48.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 65880,
+  "jornadaLaboral": 32,
+  "experiencia": 5,
+  "areaConocimiento": "Matemáticas"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef08e"
+  },
+  "primerNombre": "Guillermo",
+  "segundoNombre": "Sandra",
+  "apellidoPaterno": "Reynoso",
+  "apellidoMaterno": "Saldaña",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1984-04-07T09:40:32.000Z"
+  },
+  "CURP": "FAK712VJH60Z",
+  "NSS": {
+    "$numberLong": "59704845217"
+  },
+  "correoInstitucional": "arcelia95@example.com",
+  "fechaInicioContrato": {
+    "$date": "2019-12-26T11:30:46.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2026-05-27T00:30:55.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 23053,
+  "jornadaLaboral": 47,
+  "experiencia": 9,
+  "areaConocimiento": "Física"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef08f"
+  },
+  "primerNombre": "Felix",
+  "segundoNombre": "Dolores",
+  "apellidoPaterno": "Saavedra",
+  "apellidoMaterno": "Vázquez",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-322202058000"
+    }
+  },
+  "CURP": "XUV603PBM91J",
+  "NSS": {
+    "$numberLong": "51722679976"
+  },
+  "correoInstitucional": "hmontez@example.org",
+  "fechaInicioContrato": {
+    "$date": "2022-05-01T19:42:41.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2026-06-08T23:20:02.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 39628,
+  "jornadaLaboral": 58,
+  "experiencia": 3,
+  "areaConocimiento": "Física"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef090"
+  },
+  "primerNombre": "Helena",
+  "segundoNombre": "Gabriela",
+  "apellidoPaterno": "Valencia",
+  "apellidoMaterno": "Casillas",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-121664995000"
+    }
+  },
+  "CURP": "QUJ311QFH50M",
+  "NSS": {
+    "$numberLong": "2158853474"
+  },
+  "correoInstitucional": "jesus41@example.com",
+  "fechaInicioContrato": {
+    "$date": "2023-03-29T22:21:57.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2024-03-20T09:10:11.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 49938,
+  "jornadaLaboral": 66,
+  "experiencia": 9,
+  "areaConocimiento": "Matemáticas"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef091"
+  },
+  "primerNombre": "Norma",
+  "segundoNombre": "Delia",
+  "apellidoPaterno": "Niño",
+  "apellidoMaterno": "Cabán",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": "1971-04-27T20:44:16.000Z"
+  },
+  "CURP": "WEG703HHH21G",
+  "NSS": {
+    "$numberLong": "80047990266"
+  },
+  "correoInstitucional": "fpaz@example.com",
+  "fechaInicioContrato": {
+    "$date": "2019-06-05T02:13:58.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2026-04-28T17:04:02.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 9342,
+  "jornadaLaboral": 26,
+  "experiencia": 2,
+  "areaConocimiento": "Física"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef092"
+  },
+  "primerNombre": "Lucía",
+  "segundoNombre": "Elvira",
+  "apellidoPaterno": "Acosta",
+  "apellidoMaterno": "Quiroz",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-402842257000"
+    }
+  },
+  "CURP": "FUK101VMH43T",
+  "NSS": {
+    "$numberLong": "27486935142"
+  },
+  "correoInstitucional": "silvia68@example.com",
+  "fechaInicioContrato": {
+    "$date": "2020-04-14T04:56:25.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2025-02-22T13:32:35.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 22395,
+  "jornadaLaboral": 11,
+  "experiencia": 3,
+  "areaConocimiento": "Matemáticas"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef093"
+  },
+  "primerNombre": "Oswaldo",
+  "segundoNombre": "Raúl",
+  "apellidoPaterno": "Domínguez",
+  "apellidoMaterno": "Calvillo",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-272697412000"
+    }
+  },
+  "CURP": "RIV203FZH07X",
+  "NSS": {
+    "$numberLong": "56279412854"
+  },
+  "correoInstitucional": "espartaco27@example.net",
+  "fechaInicioContrato": {
+    "$date": "2022-04-03T21:12:49.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2024-08-09T16:27:56.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 40217,
+  "jornadaLaboral": 27,
+  "experiencia": 5,
+  "areaConocimiento": "Biología"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef094"
+  },
+  "primerNombre": "Karina",
+  "segundoNombre": "Eduardo",
+  "apellidoPaterno": "de la Torre",
+  "apellidoMaterno": "Abreu",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": "1972-10-08T03:59:43.000Z"
+  },
+  "CURP": "TUM913STM71B",
+  "NSS": {
+    "$numberLong": "3375538492"
+  },
+  "correoInstitucional": "martinmeza@example.net",
+  "fechaInicioContrato": {
+    "$date": "2023-05-11T05:39:28.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2028-12-01T07:03:40.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 37139,
+  "jornadaLaboral": 3,
+  "experiencia": 7,
+  "areaConocimiento": "Matemáticas"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef095"
+  },
+  "primerNombre": "Abel",
+  "segundoNombre": "Gabino",
+  "apellidoPaterno": "Ochoa",
+  "apellidoMaterno": "Casárez",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": "1971-03-29T11:02:46.000Z"
+  },
+  "CURP": "TIS000BQH98L",
+  "NSS": {
+    "$numberLong": "3230894636"
+  },
+  "correoInstitucional": "ramon93@example.com",
+  "fechaInicioContrato": {
+    "$date": "2021-03-01T01:13:09.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2024-06-17T01:21:35.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 61143,
+  "jornadaLaboral": 13,
+  "experiencia": 5,
+  "areaConocimiento": "Informática"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef096"
+  },
+  "primerNombre": "Francisco",
+  "segundoNombre": "Jos",
+  "apellidoPaterno": "Tirado",
+  "apellidoMaterno": "Méndez",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-377116911000"
+    }
+  },
+  "CURP": "HUF510BHH56C",
+  "NSS": 905236334,
+  "correoInstitucional": "gpichardo@example.org",
+  "fechaInicioContrato": {
+    "$date": "2023-07-17T07:50:40.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2028-02-28T11:18:36.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 35838,
+  "jornadaLaboral": 35,
+  "experiencia": 1,
+  "areaConocimiento": "Matemáticas"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef097"
+  },
+  "primerNombre": "Modesto",
+  "segundoNombre": "Norma",
+  "apellidoPaterno": "Cornejo",
+  "apellidoMaterno": "Alfaro",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-73748832000"
+    }
+  },
+  "CURP": "BUD711MXH17S",
+  "NSS": {
+    "$numberLong": "95167324705"
+  },
+  "correoInstitucional": "salma29@example.com",
+  "fechaInicioContrato": {
+    "$date": "2020-11-19T05:54:49.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2027-03-23T15:32:08.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 30304,
+  "jornadaLaboral": 68,
+  "experiencia": 4,
+  "areaConocimiento": "Matemáticas"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef098"
+  },
+  "primerNombre": "Irene",
+  "segundoNombre": "Alejandro",
+  "apellidoPaterno": "Leal",
+  "apellidoMaterno": "Posada",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1977-02-06T22:39:46.000Z"
+  },
+  "CURP": "MIZ603GMH26J",
+  "NSS": {
+    "$numberLong": "8402384556"
+  },
+  "correoInstitucional": "azapata@example.com",
+  "fechaInicioContrato": {
+    "$date": "2023-02-25T23:43:31.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2024-03-19T16:09:33.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 95153,
+  "jornadaLaboral": 72,
+  "experiencia": 0,
+  "areaConocimiento": "Informática"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef099"
+  },
+  "primerNombre": "Oswaldo",
+  "segundoNombre": "Genaro",
+  "apellidoPaterno": "Hernádez",
+  "apellidoMaterno": "del Río",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-353262511000"
+    }
+  },
+  "CURP": "SAS400LPH71K",
+  "NSS": {
+    "$numberLong": "73133179429"
+  },
+  "correoInstitucional": "rcruz@example.org",
+  "fechaInicioContrato": {
+    "$date": "2022-08-10T14:13:25.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2028-08-29T04:10:52.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 11434,
+  "jornadaLaboral": 16,
+  "experiencia": 4,
+  "areaConocimiento": "Matemáticas"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef09a"
+  },
+  "primerNombre": "Adán",
+  "segundoNombre": "Javier",
+  "apellidoPaterno": "Valdivia",
+  "apellidoMaterno": "Loera",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1975-10-08T00:59:41.000Z"
+  },
+  "CURP": "POV401SYH79T",
+  "NSS": {
+    "$numberLong": "46746465179"
+  },
+  "correoInstitucional": "hugotrujillo@example.com",
+  "fechaInicioContrato": {
+    "$date": "2023-03-12T10:04:41.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2028-01-10T03:13:44.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 94447,
+  "jornadaLaboral": 54,
+  "experiencia": 0,
+  "areaConocimiento": "Física"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef09b"
+  },
+  "primerNombre": "Emilio",
+  "segundoNombre": "María Teresa",
+  "apellidoPaterno": "Porras",
+  "apellidoMaterno": "Gamboa",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-51104565000"
+    }
+  },
+  "CURP": "GUG113QYM77L",
+  "NSS": {
+    "$numberLong": "13964880342"
+  },
+  "correoInstitucional": "sanabriasilvia@example.org",
+  "fechaInicioContrato": {
+    "$date": "2021-07-05T23:50:41.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2027-05-08T08:32:59.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 83884,
+  "jornadaLaboral": 75,
+  "experiencia": 9,
+  "areaConocimiento": "Matemáticas"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef09c"
+  },
+  "primerNombre": "Serafín",
+  "segundoNombre": "Zoé",
+  "apellidoPaterno": "Guardado",
+  "apellidoMaterno": "Aguilar",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": "1970-07-20T08:08:39.000Z"
+  },
+  "CURP": "YAH912PGM03X",
+  "NSS": {
+    "$numberLong": "13015515203"
+  },
+  "correoInstitucional": "kayala@example.com",
+  "fechaInicioContrato": {
+    "$date": "2022-04-10T16:43:10.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2025-10-15T02:39:33.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 41629,
+  "jornadaLaboral": 74,
+  "experiencia": 7,
+  "areaConocimiento": "Física"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef09d"
+  },
+  "primerNombre": "Nicolás",
+  "segundoNombre": "Santiago",
+  "apellidoPaterno": "Palomo",
+  "apellidoMaterno": "Apodaca",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1993-10-30T20:57:30.000Z"
+  },
+  "CURP": "LOK202PHM28Q",
+  "NSS": {
+    "$numberLong": "86944981355"
+  },
+  "correoInstitucional": "brisenojulia@example.net",
+  "fechaInicioContrato": {
+    "$date": "2020-02-20T11:22:47.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2026-06-29T09:07:04.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 5020,
+  "jornadaLaboral": 4,
+  "experiencia": 2,
+  "areaConocimiento": "Matemáticas"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef09e"
+  },
+  "primerNombre": "Israel",
+  "segundoNombre": "Magdalena",
+  "apellidoPaterno": "Alonzo",
+  "apellidoMaterno": "Garrido",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1971-05-27T04:39:36.000Z"
+  },
+  "CURP": "YED210XZM46X",
+  "NSS": {
+    "$numberLong": "88509805751"
+  },
+  "correoInstitucional": "zparedes@example.com",
+  "fechaInicioContrato": {
+    "$date": "2021-07-10T14:37:32.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2027-07-23T02:27:22.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 55394,
+  "jornadaLaboral": 32,
+  "experiencia": 8,
+  "areaConocimiento": "Informática"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef09f"
+  },
+  "primerNombre": "Claudia",
+  "segundoNombre": "Alejandra",
+  "apellidoPaterno": "Munguía",
+  "apellidoMaterno": "Espino",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1992-09-18T19:52:57.000Z"
+  },
+  "CURP": "YOS912FSH02S",
+  "NSS": {
+    "$numberLong": "52020502498"
+  },
+  "correoInstitucional": "almarazelisa@example.com",
+  "fechaInicioContrato": {
+    "$date": "2020-12-27T06:35:50.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2025-12-20T16:38:54.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 90874,
+  "jornadaLaboral": 11,
+  "experiencia": 0,
+  "areaConocimiento": "Matemáticas"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0a0"
+  },
+  "primerNombre": "Aurelio",
+  "segundoNombre": "Amelia",
+  "apellidoPaterno": "Barela",
+  "apellidoMaterno": "Ramos",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-357120281000"
+    }
+  },
+  "CURP": "QEG411PWM68Y",
+  "NSS": {
+    "$numberLong": "51412326749"
+  },
+  "correoInstitucional": "irodriguez@example.com",
+  "fechaInicioContrato": {
+    "$date": "2023-12-05T02:27:58.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2027-10-17T01:15:57.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 32561,
+  "jornadaLaboral": 99,
+  "experiencia": 1,
+  "areaConocimiento": "Física"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0a1"
+  },
+  "primerNombre": "Adán",
+  "segundoNombre": "Claudia",
+  "apellidoPaterno": "Saiz",
+  "apellidoMaterno": "Adame",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-495462562000"
+    }
+  },
+  "CURP": "WIK813DBH09G",
+  "NSS": {
+    "$numberLong": "6343283679"
+  },
+  "correoInstitucional": "espinozajulio-cesar@example.org",
+  "fechaInicioContrato": {
+    "$date": "2022-12-18T05:15:50.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2024-04-22T14:36:11.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 77490,
+  "jornadaLaboral": 66,
+  "experiencia": 6,
+  "areaConocimiento": "Matemáticas"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0a2"
+  },
+  "primerNombre": "Ana María",
+  "segundoNombre": "Eugenio",
+  "apellidoPaterno": "Gaona",
+  "apellidoMaterno": "Quintanilla",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": "1983-05-15T07:22:50.000Z"
+  },
+  "CURP": "POH411MWM34L",
+  "NSS": {
+    "$numberLong": "30606778842"
+  },
+  "correoInstitucional": "julio26@example.org",
+  "fechaInicioContrato": {
+    "$date": "2023-09-30T22:47:52.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2027-10-17T10:34:03.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 33558,
+  "jornadaLaboral": 8,
+  "experiencia": 7,
+  "areaConocimiento": "Matemáticas"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0a3"
+  },
+  "primerNombre": "Jorge Luis",
+  "segundoNombre": "Ivonne",
+  "apellidoPaterno": "Montez",
+  "apellidoMaterno": "Bueno",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1987-04-12T17:19:03.000Z"
+  },
+  "CURP": "TOR010LPM64G",
+  "NSS": {
+    "$numberLong": "92614389209"
+  },
+  "correoInstitucional": "xbaez@example.com",
+  "fechaInicioContrato": {
+    "$date": "2021-01-17T09:29:27.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2024-05-06T09:00:22.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 34702,
+  "jornadaLaboral": 73,
+  "experiencia": 2,
+  "areaConocimiento": "Matemáticas"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0a4"
+  },
+  "primerNombre": "Óscar",
+  "segundoNombre": "Gabino",
+  "apellidoPaterno": "Gamboa",
+  "apellidoMaterno": "Valadez",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1984-01-26T15:01:50.000Z"
+  },
+  "CURP": "RUF402VMM02D",
+  "NSS": {
+    "$numberLong": "22384361111"
+  },
+  "correoInstitucional": "andresmatos@example.com",
+  "fechaInicioContrato": {
+    "$date": "2022-08-29T22:14:13.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2026-01-24T04:59:58.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 97761,
+  "jornadaLaboral": 83,
+  "experiencia": 1,
+  "areaConocimiento": "Informática"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0a5"
+  },
+  "primerNombre": "Evelio",
+  "segundoNombre": "Olga",
+  "apellidoPaterno": "Dávila",
+  "apellidoMaterno": "Frías",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-280977359000"
+    }
+  },
+  "CURP": "WIB701VSH41X",
+  "NSS": {
+    "$numberLong": "80172515384"
+  },
+  "correoInstitucional": "beatriz78@example.org",
+  "fechaInicioContrato": {
+    "$date": "2020-07-23T05:06:47.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2024-09-14T14:13:42.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 31510,
+  "jornadaLaboral": 43,
+  "experiencia": 4,
+  "areaConocimiento": "Matemáticas"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0a6"
+  },
+  "primerNombre": "Isaac",
+  "segundoNombre": "María",
+  "apellidoPaterno": "Calvillo",
+  "apellidoMaterno": "Alfaro",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1973-06-28T23:43:38.000Z"
+  },
+  "CURP": "JOF212LLH23G",
+  "NSS": {
+    "$numberLong": "90177849385"
+  },
+  "correoInstitucional": "lealgilberto@example.org",
+  "fechaInicioContrato": {
+    "$date": "2019-04-09T13:17:55.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2025-03-14T12:37:36.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 94586,
+  "jornadaLaboral": 17,
+  "experiencia": 4,
+  "areaConocimiento": "Informática"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0a7"
+  },
+  "primerNombre": "Paulina",
+  "segundoNombre": "Carla",
+  "apellidoPaterno": "Zamudio",
+  "apellidoMaterno": "Salinas",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1982-02-17T03:14:01.000Z"
+  },
+  "CURP": "ROD012FDH70C",
+  "NSS": {
+    "$numberLong": "75909661115"
+  },
+  "correoInstitucional": "gbenavidez@example.com",
+  "fechaInicioContrato": {
+    "$date": "2022-10-17T06:51:26.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2028-02-05T16:45:23.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 37144,
+  "jornadaLaboral": 61,
+  "experiencia": 1,
+  "areaConocimiento": "Biología"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0a8"
+  },
+  "primerNombre": "Cecilia",
+  "segundoNombre": "Leonor",
+  "apellidoPaterno": "Prado",
+  "apellidoMaterno": "Franco",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-189082260000"
+    }
+  },
+  "CURP": "REH402NMH29S",
+  "NSS": {
+    "$numberLong": "29403905932"
+  },
+  "correoInstitucional": "uribesantiago@example.com",
+  "fechaInicioContrato": {
+    "$date": "2024-02-14T08:17:35.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2025-07-01T09:04:41.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 61263,
+  "jornadaLaboral": 3,
+  "experiencia": 4,
+  "areaConocimiento": "Física"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0a9"
+  },
+  "primerNombre": "Gerardo",
+  "segundoNombre": "Guillermina",
+  "apellidoPaterno": "Rivera",
+  "apellidoMaterno": "Córdova",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": "1979-07-07T20:22:04.000Z"
+  },
+  "CURP": "TOV803BMM59V",
+  "NSS": {
+    "$numberLong": "89174169675"
+  },
+  "correoInstitucional": "drosario@example.org",
+  "fechaInicioContrato": {
+    "$date": "2023-07-23T07:44:58.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2027-05-13T10:21:13.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 50629,
+  "jornadaLaboral": 72,
+  "experiencia": 9,
+  "areaConocimiento": "Biología"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0aa"
+  },
+  "primerNombre": "Abraham",
+  "segundoNombre": "Nadia",
+  "apellidoPaterno": "Almanza",
+  "apellidoMaterno": "Limón",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": "1983-10-17T01:06:56.000Z"
+  },
+  "CURP": "FEX813RYH58B",
+  "NSS": {
+    "$numberLong": "94104796200"
+  },
+  "correoInstitucional": "nataliade-anda@example.org",
+  "fechaInicioContrato": {
+    "$date": "2021-09-05T16:54:43.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2028-08-26T12:17:21.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 41087,
+  "jornadaLaboral": 98,
+  "experiencia": 6,
+  "areaConocimiento": "Informática"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0ab"
+  },
+  "primerNombre": "Patricia",
+  "segundoNombre": "Rebeca",
+  "apellidoPaterno": "Serrato",
+  "apellidoMaterno": "Cisneros",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1989-05-12T09:29:57.000Z"
+  },
+  "CURP": "NOS001SRM96D",
+  "NSS": {
+    "$numberLong": "85496487440"
+  },
+  "correoInstitucional": "cquintana@example.com",
+  "fechaInicioContrato": {
+    "$date": "2020-11-19T21:05:37.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2028-01-27T08:31:54.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 12127,
+  "jornadaLaboral": 38,
+  "experiencia": 1,
+  "areaConocimiento": "Física"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0ac"
+  },
+  "primerNombre": "Soledad",
+  "segundoNombre": "Bianca",
+  "apellidoPaterno": "Bernal",
+  "apellidoMaterno": "Villa",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1987-01-10T23:32:42.000Z"
+  },
+  "CURP": "QIG002NYM79W",
+  "NSS": {
+    "$numberLong": "59640362506"
+  },
+  "correoInstitucional": "samuelvarela@example.org",
+  "fechaInicioContrato": {
+    "$date": "2019-04-18T21:01:58.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2026-11-19T03:48:46.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 5006,
+  "jornadaLaboral": 99,
+  "experiencia": 1,
+  "areaConocimiento": "Matemáticas"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0ad"
+  },
+  "primerNombre": "Marisol",
+  "segundoNombre": "Teodoro",
+  "apellidoPaterno": "Quintero",
+  "apellidoMaterno": "Gaitán",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1988-04-26T10:23:02.000Z"
+  },
+  "CURP": "BEQ213QYM63T",
+  "NSS": {
+    "$numberLong": "98006002940"
+  },
+  "correoInstitucional": "natalia58@example.com",
+  "fechaInicioContrato": {
+    "$date": "2021-09-28T08:08:04.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2027-04-17T13:16:51.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 9293,
+  "jornadaLaboral": 80,
+  "experiencia": 2,
+  "areaConocimiento": "Informática"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0ae"
+  },
+  "primerNombre": "Santiago",
+  "segundoNombre": "Lorena",
+  "apellidoPaterno": "Loera",
+  "apellidoMaterno": "Saavedra",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": "1976-06-01T05:39:44.000Z"
+  },
+  "CURP": "ZON210KNH41K",
+  "NSS": {
+    "$numberLong": "26462461182"
+  },
+  "correoInstitucional": "carmenelizondo@example.org",
+  "fechaInicioContrato": {
+    "$date": "2021-11-27T13:35:07.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2028-05-21T23:48:58.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 74783,
+  "jornadaLaboral": 95,
+  "experiencia": 9,
+  "areaConocimiento": "Física"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0af"
+  },
+  "primerNombre": "Carmen",
+  "segundoNombre": "Nelly",
+  "apellidoPaterno": "Montez",
+  "apellidoMaterno": "Chacón",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1971-08-31T09:36:24.000Z"
+  },
+  "CURP": "LOS201HWH54H",
+  "NSS": {
+    "$numberLong": "34727626152"
+  },
+  "correoInstitucional": "esalcido@example.org",
+  "fechaInicioContrato": {
+    "$date": "2021-02-19T21:14:44.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2027-10-22T05:49:56.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 49588,
+  "jornadaLaboral": 3,
+  "experiencia": 0,
+  "areaConocimiento": "Informática"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0b0"
+  },
+  "primerNombre": "Wilfrido",
+  "segundoNombre": "Úrsula",
+  "apellidoPaterno": "Alvarado",
+  "apellidoMaterno": "Zavala",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1980-11-04T21:31:16.000Z"
+  },
+  "CURP": "RAM802KRM75Q",
+  "NSS": {
+    "$numberLong": "15043679109"
+  },
+  "correoInstitucional": "dalianavarrete@example.com",
+  "fechaInicioContrato": {
+    "$date": "2020-02-18T08:11:47.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2025-08-03T19:02:45.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 67703,
+  "jornadaLaboral": 47,
+  "experiencia": 2,
+  "areaConocimiento": "Informática"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0b1"
+  },
+  "primerNombre": "Abelardo",
+  "segundoNombre": "Horacio",
+  "apellidoPaterno": "Sanabria",
+  "apellidoMaterno": "Anaya",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1982-01-18T17:54:47.000Z"
+  },
+  "CURP": "YIN501MPH54K",
+  "NSS": {
+    "$numberLong": "11391710443"
+  },
+  "correoInstitucional": "marisol61@example.org",
+  "fechaInicioContrato": {
+    "$date": "2020-12-30T23:25:51.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2027-01-01T15:17:21.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 5467,
+  "jornadaLaboral": 76,
+  "experiencia": 0,
+  "areaConocimiento": "Matemáticas"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0b2"
+  },
+  "primerNombre": "Julio César",
+  "segundoNombre": "Carmen",
+  "apellidoPaterno": "Esquivel",
+  "apellidoMaterno": "Rubio",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1985-12-31T18:56:16.000Z"
+  },
+  "CURP": "KAK912XHH10J",
+  "NSS": 1240196125,
+  "correoInstitucional": "wcarrillo@example.com",
+  "fechaInicioContrato": {
+    "$date": "2020-05-07T07:25:02.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2027-04-26T22:47:48.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 71715,
+  "jornadaLaboral": 60,
+  "experiencia": 0,
+  "areaConocimiento": "Física"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0b3"
+  },
+  "primerNombre": "Gabino",
+  "segundoNombre": "Carlos",
+  "apellidoPaterno": "Quiñones",
+  "apellidoMaterno": "Cedillo",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-213862161000"
+    }
+  },
+  "CURP": "MAY211SHM97W",
+  "NSS": {
+    "$numberLong": "44356579102"
+  },
+  "correoInstitucional": "cazaresesperanza@example.com",
+  "fechaInicioContrato": {
+    "$date": "2023-07-21T10:15:58.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2027-11-20T18:44:28.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 5859,
+  "jornadaLaboral": 62,
+  "experiencia": 2,
+  "areaConocimiento": "Biología"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0b4"
+  },
+  "primerNombre": "Noemí",
+  "segundoNombre": "Marcela",
+  "apellidoPaterno": "Monroy",
+  "apellidoMaterno": "Hernandes",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-236973278000"
+    }
+  },
+  "CURP": "WUD903WBH94Y",
+  "NSS": {
+    "$numberLong": "5259712538"
+  },
+  "correoInstitucional": "luzmedrano@example.org",
+  "fechaInicioContrato": {
+    "$date": "2019-11-19T08:02:20.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2028-03-13T14:24:33.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 31082,
+  "jornadaLaboral": 47,
+  "experiencia": 6,
+  "areaConocimiento": "Matemáticas"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0b5"
+  },
+  "primerNombre": "Sandra",
+  "segundoNombre": "María Cristina",
+  "apellidoPaterno": "Hernandes",
+  "apellidoMaterno": "Piña",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1988-07-12T16:40:26.000Z"
+  },
+  "CURP": "NOK311RGM30M",
+  "NSS": {
+    "$numberLong": "62000281735"
+  },
+  "correoInstitucional": "graciaguillermina@example.org",
+  "fechaInicioContrato": {
+    "$date": "2019-05-24T00:10:47.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2027-08-26T01:23:15.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 41946,
+  "jornadaLaboral": 88,
+  "experiencia": 0,
+  "areaConocimiento": "Biología"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0b6"
+  },
+  "primerNombre": "Espartaco",
+  "segundoNombre": "Ángel",
+  "apellidoPaterno": "Aguayo",
+  "apellidoMaterno": "Murillo",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": "1984-05-14T11:31:44.000Z"
+  },
+  "CURP": "JOH903XHH98C",
+  "NSS": {
+    "$numberLong": "28819082426"
+  },
+  "correoInstitucional": "ines09@example.org",
+  "fechaInicioContrato": {
+    "$date": "2020-11-07T18:05:39.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2025-11-12T05:55:52.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 78065,
+  "jornadaLaboral": 68,
+  "experiencia": 9,
+  "areaConocimiento": "Física"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0b7"
+  },
+  "primerNombre": "Fidel",
+  "segundoNombre": "Cristobal",
+  "apellidoPaterno": "Sarabia",
+  "apellidoMaterno": "de la Torre",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-90493444000"
+    }
+  },
+  "CURP": "LAV112LNM94R",
+  "NSS": {
+    "$numberLong": "70087887922"
+  },
+  "correoInstitucional": "olga09@example.org",
+  "fechaInicioContrato": {
+    "$date": "2024-01-15T03:55:28.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2024-05-05T11:53:18.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 64839,
+  "jornadaLaboral": 61,
+  "experiencia": 2,
+  "areaConocimiento": "Física"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0b8"
+  },
+  "primerNombre": "Elvira",
+  "segundoNombre": "Nayeli",
+  "apellidoPaterno": "Tamayo",
+  "apellidoMaterno": "Carvajal",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1992-10-01T16:27:26.000Z"
+  },
+  "CURP": "MIT110HNM44Q",
+  "NSS": {
+    "$numberLong": "49584767510"
+  },
+  "correoInstitucional": "augusto11@example.org",
+  "fechaInicioContrato": {
+    "$date": "2021-09-20T11:36:02.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2024-07-26T19:47:18.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 33512,
+  "jornadaLaboral": 39,
+  "experiencia": 0,
+  "areaConocimiento": "Biología"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0b9"
+  },
+  "primerNombre": "Pablo",
+  "segundoNombre": "Rocío",
+  "apellidoPaterno": "Becerra",
+  "apellidoMaterno": "Soria",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": "1976-10-15T18:49:53.000Z"
+  },
+  "CURP": "PIQ510WNM94F",
+  "NSS": {
+    "$numberLong": "63869547738"
+  },
+  "correoInstitucional": "jjuarez@example.com",
+  "fechaInicioContrato": {
+    "$date": "2020-11-12T16:29:02.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2026-10-17T20:30:37.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 3321,
+  "jornadaLaboral": 67,
+  "experiencia": 7,
+  "areaConocimiento": "Física"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0ba"
+  },
+  "primerNombre": "Leonardo",
+  "segundoNombre": "Zeferino",
+  "apellidoPaterno": "Figueroa",
+  "apellidoMaterno": "Gutiérrez",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1977-06-09T14:41:22.000Z"
+  },
+  "CURP": "ZEK100MHM33Z",
+  "NSS": {
+    "$numberLong": "24035417512"
+  },
+  "correoInstitucional": "eloisa69@example.net",
+  "fechaInicioContrato": {
+    "$date": "2022-10-02T23:56:28.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2028-10-07T01:53:22.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 6614,
+  "jornadaLaboral": 83,
+  "experiencia": 4,
+  "areaConocimiento": "Física"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0bb"
+  },
+  "primerNombre": "Rosa",
+  "segundoNombre": "Gregorio",
+  "apellidoPaterno": "Mireles",
+  "apellidoMaterno": "Esparza",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1990-06-22T14:33:15.000Z"
+  },
+  "CURP": "WAT401DSM04C",
+  "NSS": {
+    "$numberLong": "7360532114"
+  },
+  "correoInstitucional": "gracielanoriega@example.com",
+  "fechaInicioContrato": {
+    "$date": "2022-06-29T17:11:46.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2027-09-17T04:55:39.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 46775,
+  "jornadaLaboral": 89,
+  "experiencia": 7,
+  "areaConocimiento": "Informática"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0bc"
+  },
+  "primerNombre": "Micaela",
+  "segundoNombre": "Israel",
+  "apellidoPaterno": "Beltrán",
+  "apellidoMaterno": "Olivares",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-84332337000"
+    }
+  },
+  "CURP": "BUN803DSH88P",
+  "NSS": {
+    "$numberLong": "6212542775"
+  },
+  "correoInstitucional": "leonorcarbajal@example.org",
+  "fechaInicioContrato": {
+    "$date": "2023-07-29T14:57:01.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2024-05-30T05:12:05.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 87722,
+  "jornadaLaboral": 35,
+  "experiencia": 7,
+  "areaConocimiento": "Matemáticas"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0bd"
+  },
+  "primerNombre": "Estefanía",
+  "segundoNombre": "Esmeralda",
+  "apellidoPaterno": "Herrera",
+  "apellidoMaterno": "del Valle",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": "1991-05-14T09:48:53.000Z"
+  },
+  "CURP": "NUY410WNM38D",
+  "NSS": {
+    "$numberLong": "21048935875"
+  },
+  "correoInstitucional": "camilaporras@example.com",
+  "fechaInicioContrato": {
+    "$date": "2022-10-29T18:16:49.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2025-03-07T08:45:46.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 17096,
+  "jornadaLaboral": 9,
+  "experiencia": 6,
+  "areaConocimiento": "Informática"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0be"
+  },
+  "primerNombre": "Gustavo",
+  "segundoNombre": "Reynaldo",
+  "apellidoPaterno": "Sisneros",
+  "apellidoMaterno": "Estévez",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-154921577000"
+    }
+  },
+  "CURP": "GIP100VRM97G",
+  "NSS": {
+    "$numberLong": "73896160906"
+  },
+  "correoInstitucional": "minerva55@example.com",
+  "fechaInicioContrato": {
+    "$date": "2021-10-28T20:41:46.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2024-07-27T00:22:28.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 2038,
+  "jornadaLaboral": 77,
+  "experiencia": 8,
+  "areaConocimiento": "Informática"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0bf"
+  },
+  "primerNombre": "Marisol",
+  "segundoNombre": "Paola",
+  "apellidoPaterno": "Arriaga",
+  "apellidoMaterno": "Briseño",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1986-09-23T15:38:48.000Z"
+  },
+  "CURP": "PAY411HFH97M",
+  "NSS": {
+    "$numberLong": "43527006408"
+  },
+  "correoInstitucional": "rodrigocuellar@example.com",
+  "fechaInicioContrato": {
+    "$date": "2023-02-02T08:28:01.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2026-08-21T06:37:06.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 80711,
+  "jornadaLaboral": 71,
+  "experiencia": 8,
+  "areaConocimiento": "Informática"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0c0"
+  },
+  "primerNombre": "Omar",
+  "segundoNombre": "Esperanza",
+  "apellidoPaterno": "Mendoza",
+  "apellidoMaterno": "Montemayor",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1981-06-30T13:17:32.000Z"
+  },
+  "CURP": "LEJ702PMM93Y",
+  "NSS": {
+    "$numberLong": "69384837019"
+  },
+  "correoInstitucional": "dalcaraz@example.net",
+  "fechaInicioContrato": {
+    "$date": "2021-01-31T14:48:42.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2028-10-08T04:11:24.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 52281,
+  "jornadaLaboral": 94,
+  "experiencia": 4,
+  "areaConocimiento": "Biología"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0c1"
+  },
+  "primerNombre": "Víctor",
+  "segundoNombre": "Antonio",
+  "apellidoPaterno": "Narváez",
+  "apellidoMaterno": "Garica",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": "1975-12-16T07:02:40.000Z"
+  },
+  "CURP": "VIR400LRH89S",
+  "NSS": {
+    "$numberLong": "75130576193"
+  },
+  "correoInstitucional": "varroyo@example.net",
+  "fechaInicioContrato": {
+    "$date": "2023-11-24T20:01:20.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2024-12-01T04:07:48.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 90230,
+  "jornadaLaboral": 86,
+  "experiencia": 8,
+  "areaConocimiento": "Informática"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0c2"
+  },
+  "primerNombre": "Alejandro",
+  "segundoNombre": "Gregorio",
+  "apellidoPaterno": "Benítez",
+  "apellidoMaterno": "Campos",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-160016421000"
+    }
+  },
+  "CURP": "MED710DBH32F",
+  "NSS": {
+    "$numberLong": "72061344002"
+  },
+  "correoInstitucional": "cejamaria-jose@example.net",
+  "fechaInicioContrato": {
+    "$date": "2021-01-22T01:46:55.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2026-01-30T01:50:39.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 73986,
+  "jornadaLaboral": 43,
+  "experiencia": 8,
+  "areaConocimiento": "Biología"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0c3"
+  },
+  "primerNombre": "Eric",
+  "segundoNombre": "Miguel Ángel",
+  "apellidoPaterno": "Melgar",
+  "apellidoMaterno": "Anguiano",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1989-05-03T18:51:23.000Z"
+  },
+  "CURP": "SOG512YTM94J",
+  "NSS": {
+    "$numberLong": "4637781573"
+  },
+  "correoInstitucional": "qquinonez@example.org",
+  "fechaInicioContrato": {
+    "$date": "2022-08-10T16:40:36.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2025-03-31T19:06:04.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 16775,
+  "jornadaLaboral": 72,
+  "experiencia": 6,
+  "areaConocimiento": "Física"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0c4"
+  },
+  "primerNombre": "Teodoro",
+  "segundoNombre": "Wendolin",
+  "apellidoPaterno": "Quintana",
+  "apellidoMaterno": "Rascón",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": "1974-08-10T05:24:04.000Z"
+  },
+  "CURP": "XAG000CPM19V",
+  "NSS": {
+    "$numberLong": "34789540293"
+  },
+  "correoInstitucional": "bbenavidez@example.net",
+  "fechaInicioContrato": {
+    "$date": "2020-10-20T03:26:46.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2025-04-01T01:36:56.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 40357,
+  "jornadaLaboral": 39,
+  "experiencia": 7,
+  "areaConocimiento": "Física"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0c5"
+  },
+  "primerNombre": "José",
+  "segundoNombre": "Carolina",
+  "apellidoPaterno": "Marrero",
+  "apellidoMaterno": "Lebrón",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1993-08-30T01:12:25.000Z"
+  },
+  "CURP": "FIL312FFM61B",
+  "NSS": {
+    "$numberLong": "64224937838"
+  },
+  "correoInstitucional": "ureyna@example.net",
+  "fechaInicioContrato": {
+    "$date": "2019-12-30T22:46:28.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2025-01-16T21:43:48.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 18043,
+  "jornadaLaboral": 82,
+  "experiencia": 0,
+  "areaConocimiento": "Física"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0c6"
+  },
+  "primerNombre": "Alvaro",
+  "segundoNombre": "Antonio",
+  "apellidoPaterno": "Ponce",
+  "apellidoMaterno": "Pulido",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": "1987-08-19T15:38:32.000Z"
+  },
+  "CURP": "SUX713TLH46J",
+  "NSS": {
+    "$numberLong": "52119584009"
+  },
+  "correoInstitucional": "ilara@example.com",
+  "fechaInicioContrato": {
+    "$date": "2020-09-06T07:59:58.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2027-11-03T20:05:25.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 28290,
+  "jornadaLaboral": 0,
+  "experiencia": 1,
+  "areaConocimiento": "Informática"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0c7"
+  },
+  "primerNombre": "Fabiola",
+  "segundoNombre": "Irene",
+  "apellidoPaterno": "Ledesma",
+  "apellidoMaterno": "Fuentes",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1970-04-28T05:11:47.000Z"
+  },
+  "CURP": "VUC911FJH07X",
+  "NSS": {
+    "$numberLong": "40517031204"
+  },
+  "correoInstitucional": "reinaotero@example.net",
+  "fechaInicioContrato": {
+    "$date": "2022-04-25T02:03:11.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2028-09-17T14:26:16.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 92204,
+  "jornadaLaboral": 46,
+  "experiencia": 7,
+  "areaConocimiento": "Informática"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0c8"
+  },
+  "primerNombre": "Emiliano",
+  "segundoNombre": "Julia",
+  "apellidoPaterno": "Báez",
+  "apellidoMaterno": "de la O",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": "1992-11-27T18:12:44.000Z"
+  },
+  "CURP": "WUV500ZDM17Q",
+  "NSS": {
+    "$numberLong": "95279912077"
+  },
+  "correoInstitucional": "martharolon@example.net",
+  "fechaInicioContrato": {
+    "$date": "2020-11-21T22:48:25.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2028-12-13T20:08:11.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 36129,
+  "jornadaLaboral": 63,
+  "experiencia": 3,
+  "areaConocimiento": "Informática"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0c9"
+  },
+  "primerNombre": "Sessa",
+  "segundoNombre": "Hilda",
+  "apellidoPaterno": "Elizondo",
+  "apellidoMaterno": "Vallejo",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": "1973-05-27T15:39:19.000Z"
+  },
+  "CURP": "LED210LKM30P",
+  "NSS": {
+    "$numberLong": "58157520116"
+  },
+  "correoInstitucional": "fabrego@example.com",
+  "fechaInicioContrato": {
+    "$date": "2022-02-16T04:59:23.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2027-06-28T08:33:03.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 33931,
+  "jornadaLaboral": 19,
+  "experiencia": 4,
+  "areaConocimiento": "Matemáticas"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0ca"
+  },
+  "primerNombre": "Gerardo",
+  "segundoNombre": "Daniel",
+  "apellidoPaterno": "López",
+  "apellidoMaterno": "León",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1985-11-18T07:00:19.000Z"
+  },
+  "CURP": "PIQ110GLM60M",
+  "NSS": {
+    "$numberLong": "68581895590"
+  },
+  "correoInstitucional": "bernabecorral@example.net",
+  "fechaInicioContrato": {
+    "$date": "2023-11-06T03:45:57.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2025-06-25T10:53:39.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 56104,
+  "jornadaLaboral": 85,
+  "experiencia": 6,
+  "areaConocimiento": "Matemáticas"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0cb"
+  },
+  "primerNombre": "Yolanda",
+  "segundoNombre": "Pilar",
+  "apellidoPaterno": "Rendón",
+  "apellidoMaterno": "Apodaca",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-201657218000"
+    }
+  },
+  "CURP": "JUD013JVH06W",
+  "NSS": {
+    "$numberLong": "59648445603"
+  },
+  "correoInstitucional": "evelioflores@example.net",
+  "fechaInicioContrato": {
+    "$date": "2022-05-08T02:19:31.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2028-08-04T04:22:36.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 13565,
+  "jornadaLaboral": 6,
+  "experiencia": 1,
+  "areaConocimiento": "Informática"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0cc"
+  },
+  "primerNombre": "Zoé",
+  "segundoNombre": "Cecilia",
+  "apellidoPaterno": "Guzmán",
+  "apellidoMaterno": "Domínguez",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1987-02-08T20:02:53.000Z"
+  },
+  "CURP": "HIP210PZH43C",
+  "NSS": {
+    "$numberLong": "84617621152"
+  },
+  "correoInstitucional": "dvelazquez@example.com",
+  "fechaInicioContrato": {
+    "$date": "2021-06-09T19:12:18.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2027-09-08T13:44:54.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 24268,
+  "jornadaLaboral": 3,
+  "experiencia": 7,
+  "areaConocimiento": "Matemáticas"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0cd"
+  },
+  "primerNombre": "Antonio",
+  "segundoNombre": "Espartaco",
+  "apellidoPaterno": "Lebrón",
+  "apellidoMaterno": "Galindo",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-31122434000"
+    }
+  },
+  "CURP": "NIK711VZM07N",
+  "NSS": {
+    "$numberLong": "28937016321"
+  },
+  "correoInstitucional": "zoe59@example.org",
+  "fechaInicioContrato": {
+    "$date": "2019-05-09T17:45:17.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2027-09-25T14:12:37.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 33288,
+  "jornadaLaboral": 92,
+  "experiencia": 9,
+  "areaConocimiento": "Física"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0ce"
+  },
+  "primerNombre": "Marcos",
+  "segundoNombre": "Darío",
+  "apellidoPaterno": "Amador",
+  "apellidoMaterno": "Ornelas",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1986-09-13T05:41:49.000Z"
+  },
+  "CURP": "HUH013FMH61L",
+  "NSS": {
+    "$numberLong": "37980096203"
+  },
+  "correoInstitucional": "bcorral@example.org",
+  "fechaInicioContrato": {
+    "$date": "2022-08-22T14:33:26.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2028-01-12T07:59:05.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 50880,
+  "jornadaLaboral": 85,
+  "experiencia": 0,
+  "areaConocimiento": "Biología"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0cf"
+  },
+  "primerNombre": "Carla",
+  "segundoNombre": "Eugenio",
+  "apellidoPaterno": "Bonilla",
+  "apellidoMaterno": "Alvarez",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1974-05-22T19:32:33.000Z"
+  },
+  "CURP": "KAH303JDH69G",
+  "NSS": {
+    "$numberLong": "66932029159"
+  },
+  "correoInstitucional": "bernardosalcido@example.com",
+  "fechaInicioContrato": {
+    "$date": "2023-03-15T12:26:30.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2024-09-30T17:02:32.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 39605,
+  "jornadaLaboral": 2,
+  "experiencia": 9,
+  "areaConocimiento": "Matemáticas"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0d0"
+  },
+  "primerNombre": "Cristobal",
+  "segundoNombre": "Miguel Ángel",
+  "apellidoPaterno": "Meza",
+  "apellidoMaterno": "Mondragón",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": "1979-01-10T02:51:59.000Z"
+  },
+  "CURP": "HOF610ZMM31Z",
+  "NSS": {
+    "$numberLong": "6965830727"
+  },
+  "correoInstitucional": "dulce-mariabetancourt@example.net",
+  "fechaInicioContrato": {
+    "$date": "2023-10-09T21:14:35.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2024-05-25T23:52:43.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 29496,
+  "jornadaLaboral": 50,
+  "experiencia": 6,
+  "areaConocimiento": "Informática"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0d1"
+  },
+  "primerNombre": "Roberto",
+  "segundoNombre": "Jonás",
+  "apellidoPaterno": "Ybarra",
+  "apellidoMaterno": "Quiñones",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1986-11-17T20:24:32.000Z"
+  },
+  "CURP": "CEY601FBH66B",
+  "NSS": {
+    "$numberLong": "81170775779"
+  },
+  "correoInstitucional": "pablo38@example.net",
+  "fechaInicioContrato": {
+    "$date": "2020-10-06T03:03:38.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2027-12-24T04:53:57.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 85810,
+  "jornadaLaboral": 26,
+  "experiencia": 3,
+  "areaConocimiento": "Informática"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0d2"
+  },
+  "primerNombre": "Delia",
+  "segundoNombre": "Bianca",
+  "apellidoPaterno": "Córdova",
+  "apellidoMaterno": "Lira",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-36049574000"
+    }
+  },
+  "CURP": "KUC513PPM92Y",
+  "NSS": {
+    "$numberLong": "8879343586"
+  },
+  "correoInstitucional": "graciela95@example.com",
+  "fechaInicioContrato": {
+    "$date": "2022-10-30T07:49:05.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2028-04-21T18:56:54.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 30689,
+  "jornadaLaboral": 11,
+  "experiencia": 9,
+  "areaConocimiento": "Matemáticas"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0d3"
+  },
+  "primerNombre": "Wendolin",
+  "segundoNombre": "Helena",
+  "apellidoPaterno": "Samaniego",
+  "apellidoMaterno": "Pérez",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-285203506000"
+    }
+  },
+  "CURP": "CUQ802LSM45M",
+  "NSS": {
+    "$numberLong": "33678346844"
+  },
+  "correoInstitucional": "jjimenez@example.org",
+  "fechaInicioContrato": {
+    "$date": "2023-02-01T23:02:56.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2027-04-30T04:52:14.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 44952,
+  "jornadaLaboral": 86,
+  "experiencia": 3,
+  "areaConocimiento": "Matemáticas"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0d4"
+  },
+  "primerNombre": "Miguel",
+  "segundoNombre": "Estela",
+  "apellidoPaterno": "Centeno",
+  "apellidoMaterno": "Córdova",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1975-12-02T08:53:26.000Z"
+  },
+  "CURP": "KUK602DPH00F",
+  "NSS": {
+    "$numberLong": "18640216335"
+  },
+  "correoInstitucional": "manuel94@example.net",
+  "fechaInicioContrato": {
+    "$date": "2023-03-10T19:03:02.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2024-03-12T22:02:05.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 59616,
+  "jornadaLaboral": 65,
+  "experiencia": 3,
+  "areaConocimiento": "Informática"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0d5"
+  },
+  "primerNombre": "Elisa",
+  "segundoNombre": "Oswaldo",
+  "apellidoPaterno": "Haro",
+  "apellidoMaterno": "Olivo",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": "1974-06-26T03:55:52.000Z"
+  },
+  "CURP": "SUQ813GWM25C",
+  "NSS": {
+    "$numberLong": "8587084489"
+  },
+  "correoInstitucional": "moralesaugusto@example.org",
+  "fechaInicioContrato": {
+    "$date": "2022-03-08T12:42:11.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2029-01-23T02:33:07.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 68101,
+  "jornadaLaboral": 65,
+  "experiencia": 4,
+  "areaConocimiento": "Física"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0d6"
+  },
+  "primerNombre": "Liliana",
+  "segundoNombre": "María Cristina",
+  "apellidoPaterno": "Zelaya",
+  "apellidoMaterno": "Aponte",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1987-10-22T03:30:32.000Z"
+  },
+  "CURP": "JEF703WKH86V",
+  "NSS": {
+    "$numberLong": "80825831709"
+  },
+  "correoInstitucional": "sara06@example.org",
+  "fechaInicioContrato": {
+    "$date": "2021-04-24T22:21:54.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2025-06-28T08:28:30.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 58369,
+  "jornadaLaboral": 46,
+  "experiencia": 8,
+  "areaConocimiento": "Informática"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0d7"
+  },
+  "primerNombre": "Gerónimo",
+  "segundoNombre": "Citlali",
+  "apellidoPaterno": "Roldán",
+  "apellidoMaterno": "Soria",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-437937136000"
+    }
+  },
+  "CURP": "DUL011RCM52Q",
+  "NSS": {
+    "$numberLong": "34363055553"
+  },
+  "correoInstitucional": "ifrias@example.org",
+  "fechaInicioContrato": {
+    "$date": "2023-03-16T14:59:29.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2024-05-02T16:45:02.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 91421,
+  "jornadaLaboral": 18,
+  "experiencia": 4,
+  "areaConocimiento": "Informática"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0d8"
+  },
+  "primerNombre": "María",
+  "segundoNombre": "Alfredo",
+  "apellidoPaterno": "Alba",
+  "apellidoMaterno": "Mejía",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-433830008000"
+    }
+  },
+  "CURP": "CEW302CNH76S",
+  "NSS": {
+    "$numberLong": "49060461745"
+  },
+  "correoInstitucional": "cpreciado@example.org",
+  "fechaInicioContrato": {
+    "$date": "2022-05-29T12:14:19.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2026-03-25T06:42:34.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 72979,
+  "jornadaLaboral": 42,
+  "experiencia": 0,
+  "areaConocimiento": "Informática"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0d9"
+  },
+  "primerNombre": "Marcos",
+  "segundoNombre": "Rosalia",
+  "apellidoPaterno": "Ontiveros",
+  "apellidoMaterno": "del Río",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": "1981-11-28T21:01:09.000Z"
+  },
+  "CURP": "VUX702WMM99G",
+  "NSS": {
+    "$numberLong": "99915584123"
+  },
+  "correoInstitucional": "mauro29@example.com",
+  "fechaInicioContrato": {
+    "$date": "2023-06-29T13:15:24.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2026-10-01T19:31:15.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 54802,
+  "jornadaLaboral": 90,
+  "experiencia": 8,
+  "areaConocimiento": "Informática"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0da"
+  },
+  "primerNombre": "Óscar",
+  "segundoNombre": "Luz",
+  "apellidoPaterno": "Molina",
+  "apellidoMaterno": "Cedillo",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": "1983-10-31T03:13:39.000Z"
+  },
+  "CURP": "JEP713ZLH04B",
+  "NSS": {
+    "$numberLong": "47975361516"
+  },
+  "correoInstitucional": "bholguin@example.net",
+  "fechaInicioContrato": {
+    "$date": "2022-05-25T16:17:25.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2028-03-18T08:18:04.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 76918,
+  "jornadaLaboral": 52,
+  "experiencia": 1,
+  "areaConocimiento": "Física"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0db"
+  },
+  "primerNombre": "Pablo",
+  "segundoNombre": "Felix",
+  "apellidoPaterno": "Pacheco",
+  "apellidoMaterno": "Casanova",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1970-06-20T21:08:19.000Z"
+  },
+  "CURP": "FEP502GBM20P",
+  "NSS": {
+    "$numberLong": "39794708004"
+  },
+  "correoInstitucional": "lorenaarguello@example.com",
+  "fechaInicioContrato": {
+    "$date": "2020-04-07T23:24:43.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2025-05-21T16:59:09.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 5220,
+  "jornadaLaboral": 68,
+  "experiencia": 0,
+  "areaConocimiento": "Física"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0dc"
+  },
+  "primerNombre": "Minerva",
+  "segundoNombre": "Gregorio",
+  "apellidoPaterno": "Corral",
+  "apellidoMaterno": "Cuellar",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": "1989-06-16T06:50:57.000Z"
+  },
+  "CURP": "RAB400MBM01F",
+  "NSS": {
+    "$numberLong": "46997874724"
+  },
+  "correoInstitucional": "cbecerra@example.net",
+  "fechaInicioContrato": {
+    "$date": "2022-03-13T17:13:36.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2024-03-19T06:39:23.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 11495,
+  "jornadaLaboral": 60,
+  "experiencia": 4,
+  "areaConocimiento": "Biología"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0dd"
+  },
+  "primerNombre": "Barbara",
+  "segundoNombre": "Aida",
+  "apellidoPaterno": "Arriaga",
+  "apellidoMaterno": "Tirado",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1989-02-01T03:11:25.000Z"
+  },
+  "CURP": "BAC711WJM95G",
+  "NSS": {
+    "$numberLong": "81801897171"
+  },
+  "correoInstitucional": "monteroabel@example.com",
+  "fechaInicioContrato": {
+    "$date": "2020-12-28T13:10:18.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2025-08-09T08:52:25.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 31486,
+  "jornadaLaboral": 77,
+  "experiencia": 0,
+  "areaConocimiento": "Biología"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0de"
+  },
+  "primerNombre": "Manuel",
+  "segundoNombre": "Cornelio",
+  "apellidoPaterno": "Vela",
+  "apellidoMaterno": "Matías",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": "1980-07-09T20:27:34.000Z"
+  },
+  "CURP": "DAJ713JXM34P",
+  "NSS": {
+    "$numberLong": "25439777478"
+  },
+  "correoInstitucional": "irmaalvarado@example.com",
+  "fechaInicioContrato": {
+    "$date": "2021-04-28T18:02:38.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2026-03-17T05:02:32.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 78462,
+  "jornadaLaboral": 74,
+  "experiencia": 5,
+  "areaConocimiento": "Matemáticas"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0df"
+  },
+  "primerNombre": "Hernán",
+  "segundoNombre": "Rubén",
+  "apellidoPaterno": "Centeno",
+  "apellidoMaterno": "Granados",
+  "sexo": "F",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-430840634000"
+    }
+  },
+  "CURP": "HUH311ZQH35D",
+  "NSS": {
+    "$numberLong": "15450179885"
+  },
+  "correoInstitucional": "horaciobarrera@example.com",
+  "fechaInicioContrato": {
+    "$date": "2024-02-26T09:46:41.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2024-09-19T10:06:00.000Z"
+  },
+  "estatus": "Inactivo",
+  "salario": 36136,
+  "jornadaLaboral": 19,
+  "experiencia": 4,
+  "areaConocimiento": "Física"
+},
+{
+  "_id": {
+    "$oid": "65dd433fb399a55c909ef0e0"
+  },
+  "primerNombre": "Homero",
+  "segundoNombre": "Amelia",
+  "apellidoPaterno": "Avilés",
+  "apellidoMaterno": "Cabán",
+  "sexo": "M",
+  "fechaNacimiento": {
+    "$date": "1970-08-26T03:52:33.000Z"
+  },
+  "CURP": "MUS201HVM22K",
+  "NSS": {
+    "$numberLong": "91839920600"
+  },
+  "correoInstitucional": "btamez@example.org",
+  "fechaInicioContrato": {
+    "$date": "2024-02-20T23:44:04.000Z"
+  },
+  "fechaFinContrato": {
+    "$date": "2028-11-20T07:20:36.000Z"
+  },
+  "estatus": "Activo",
+  "salario": 33065,
+  "jornadaLaboral": 17,
+  "experiencia": 9,
+  "areaConocimiento": "Biología"
+}]

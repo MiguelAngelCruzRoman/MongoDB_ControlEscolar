@@ -17,8 +17,10 @@ fake = Faker('es_MX')
 
 def generar_calificaciones(num_calificaciones):
     calificaciones = []
-    estudiantes = list(collection_estudiantes.find())  # Convertir a lista
-    materias = list(collection_materias.find())  # Convertir a lista
+
+    estudiantes = [estudiantes['_id'] for estudiantes in collection_estudiantes.find({}, {'_id': 1})]
+    materias = [materias['_id'] for materias in collection_materias.find({}, {'_id': 1})]
+
 
     for _ in range(num_calificaciones):
         estudiante = random.choice(estudiantes)  # Seleccionar un estudiante aleatorio

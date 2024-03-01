@@ -1,1438 +1,160 @@
 [{
   "_id": {
-    "$oid": "65dd434f12f1885a854ab4ab"
+    "$oid": "65e14acc949fd4cc027c01bd"
   },
-  "nombre": "Director de servicios de cuidados infantiles",
+  "nombre": "Operario en cemento armado y enfoscador",
   "maestro": {
-    "$oid": "65dd433fb399a55c909ef0b4"
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11f9e1"
+    },
+    "primerNombre": "Graciela",
+    "segundoNombre": "Germán",
+    "apellidoPaterno": "Zapata",
+    "apellidoMaterno": "Ureña"
   },
   "horasPracticas": 40,
   "horasTeoricas": 50,
-  "creditos": 5
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4ac"
-  },
-  "nombre": "Director de servicios de cuidados infantiles",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0b9"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 30,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4ad"
-  },
-  "nombre": "Instructor de autoescuela",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef07f"
-  },
-  "horasPracticas": 40,
-  "horasTeoricas": 10,
-  "creditos": 4
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4ae"
-  },
-  "nombre": "Profesor de artes",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef089"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 30,
-  "creditos": 4
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4af"
-  },
-  "nombre": "Urbanistas e ingenieros de tránsito",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0cb"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 40,
   "creditos": 6
 },
 {
   "_id": {
-    "$oid": "65dd434f12f1885a854ab4b0"
+    "$oid": "65e14acc949fd4cc027c01be"
   },
-  "nombre": "Ensamblador de equipos electrónicos",
+  "nombre": "Zoólogo",
   "maestro": {
-    "$oid": "65dd433fb399a55c909ef093"
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddab3"
+    },
+    "primerNombre": "Lilia",
+    "segundoNombre": "Mariana",
+    "apellidoPaterno": "Merino",
+    "apellidoMaterno": "Villalobos"
   },
-  "horasPracticas": 30,
-  "horasTeoricas": 20,
-  "creditos": 2
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4b1"
-  },
-  "nombre": "Supervisor de tiendas y almacenes",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0d9"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 40,
+  "horasPracticas": 50,
+  "horasTeoricas": 30,
   "creditos": 7
 },
 {
   "_id": {
-    "$oid": "65dd434f12f1885a854ab4b2"
-  },
-  "nombre": "Director de servicios de salud",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef090"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 50,
-  "creditos": 1
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4b3"
-  },
-  "nombre": "Modelador de vidrio",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0cd"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 30,
-  "creditos": 8
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4b4"
-  },
-  "nombre": "Locutor de radio",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0d2"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 20,
-  "creditos": 4
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4b5"
-  },
-  "nombre": "Maquinista de locomotoras",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef08e"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 40,
-  "creditos": 6
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4b6"
-  },
-  "nombre": "Agente de administración tributaria",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0ce"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 30,
-  "creditos": 4
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4b7"
-  },
-  "nombre": "Bibliotecarios",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0b6"
-  },
-  "horasPracticas": 40,
-  "horasTeoricas": 20,
-  "creditos": 1
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4b8"
-  },
-  "nombre": "Demostrador de tiendas",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0dc"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 50,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4b9"
+    "$oid": "65e14acc949fd4cc027c01bf"
   },
   "nombre": "Vendedor por teléfono",
   "maestro": {
-    "$oid": "65dd433fb399a55c909ef090"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 30,
-  "creditos": 5
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4ba"
-  },
-  "nombre": "Mandader",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0c7"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 10,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4bb"
-  },
-  "nombre": "Detective",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0dd"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 50,
-  "creditos": 6
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4bc"
-  },
-  "nombre": "Técnico de prótesis médicas y dentales",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0d4"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 10,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4bd"
-  },
-  "nombre": "Grabador de datos",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0a2"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 20,
-  "creditos": 3
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4be"
-  },
-  "nombre": "Ingeniero electricista",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0b3"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 40,
-  "creditos": 6
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4bf"
-  },
-  "nombre": "Artesano",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0be"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 50,
-  "creditos": 7
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4c0"
-  },
-  "nombre": "Cajero de banco",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0af"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 20,
-  "creditos": 9
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4c1"
-  },
-  "nombre": "Gerente de comercios al por mayor y al por menor",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef090"
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa0f"
+    },
+    "primerNombre": "Modesto",
+    "segundoNombre": "Leonor",
+    "apellidoPaterno": "Uribe",
+    "apellidoMaterno": "Oquendo"
   },
   "horasPracticas": 40,
-  "horasTeoricas": 10,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4c2"
-  },
-  "nombre": "Clasificador de desechos",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0be"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 50,
-  "creditos": 8
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4c3"
-  },
-  "nombre": "Director de empresas de construcción",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef08b"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 30,
+  "horasTeoricas": 20,
   "creditos": 1
 },
 {
   "_id": {
-    "$oid": "65dd434f12f1885a854ab4c4"
+    "$oid": "65e14acc949fd4cc027c01c0"
   },
-  "nombre": "Constructor de casas",
+  "nombre": "Técnico en ciencias físicas y químicas",
   "maestro": {
-    "$oid": "65dd433fb399a55c909ef07d"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 20,
-  "creditos": 9
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4c5"
-  },
-  "nombre": "Profesional de la protección medioambiental",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef081"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 40,
-  "creditos": 7
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4c6"
-  },
-  "nombre": "Profesional del trabajo social",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0aa"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 50,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4c7"
-  },
-  "nombre": "Operador de instalaciones de refinación de petróleo y gas natural",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0a3"
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa39"
+    },
+    "primerNombre": "Vanesa",
+    "segundoNombre": "Bernardo",
+    "apellidoPaterno": "Blanco",
+    "apellidoMaterno": "Escobar"
   },
   "horasPracticas": 30,
-  "horasTeoricas": 20,
-  "creditos": 7
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4c8"
-  },
-  "nombre": "Recepcionista de hoteles",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef07e"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 30,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4c9"
-  },
-  "nombre": "Personal directivo de la administración pública",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef08f"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 50,
-  "creditos": 9
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4ca"
-  },
-  "nombre": "Entrevistador de investigaciones de mercados",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef094"
-  },
-  "horasPracticas": 50,
   "horasTeoricas": 40,
   "creditos": 2
 },
 {
   "_id": {
-    "$oid": "65dd434f12f1885a854ab4cb"
+    "$oid": "65e14acc949fd4cc027c01c1"
   },
-  "nombre": "Operador de maquinaria agrícola y forestal móvil",
+  "nombre": "Cristalero",
   "maestro": {
-    "$oid": "65dd433fb399a55c909ef0c0"
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa0f"
+    },
+    "primerNombre": "Graciela",
+    "segundoNombre": "Noelia",
+    "apellidoPaterno": "Casas",
+    "apellidoMaterno": "Montoya"
   },
   "horasPracticas": 10,
-  "horasTeoricas": 40,
+  "horasTeoricas": 30,
   "creditos": 8
 },
 {
   "_id": {
-    "$oid": "65dd434f12f1885a854ab4cc"
+    "$oid": "65e14acc949fd4cc027c01c2"
   },
-  "nombre": "Lavador de vehículos",
+  "nombre": "Regulador y operador de máquinas y herramientas",
   "maestro": {
-    "$oid": "65dd433fb399a55c909ef08d"
-  },
-  "horasPracticas": 40,
-  "horasTeoricas": 30,
-  "creditos": 1
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4cd"
-  },
-  "nombre": "Limpiador y asistente doméstico",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef097"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 20,
-  "creditos": 6
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4ce"
-  },
-  "nombre": "Avicultor",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0d0"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 40,
-  "creditos": 9
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4cf"
-  },
-  "nombre": "Miembro de las fuerzas armadas",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0b7"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 40,
-  "creditos": 4
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4d0"
-  },
-  "nombre": "Vendedor ambulantes (excluyendo de comida)",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef09a"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 20,
-  "creditos": 4
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4d1"
-  },
-  "nombre": "Diseñador de bases de datos",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef087"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 50,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4d2"
-  },
-  "nombre": "Zoólogo",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0dd"
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa25"
+    },
+    "primerNombre": "Wendolin",
+    "segundoNombre": "Maximiliano",
+    "apellidoPaterno": "Aponte",
+    "apellidoMaterno": "Corral"
   },
   "horasPracticas": 20,
-  "horasTeoricas": 50,
-  "creditos": 9
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4d3"
-  },
-  "nombre": "Desarrollador Web y multimedia",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef092"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 50,
-  "creditos": 9
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4d4"
-  },
-  "nombre": "Focumentalista",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef082"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 50,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4d5"
-  },
-  "nombre": "Profesional de la salud y la higiene laboral y ambiental",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0af"
-  },
-  "horasPracticas": 40,
-  "horasTeoricas": 30,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4d6"
-  },
-  "nombre": "Urbanistas e ingenieros de tránsito",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef09c"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 50,
-  "creditos": 9
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4d7"
-  },
-  "nombre": "Director de teatro",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0c4"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 40,
-  "creditos": 1
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4d8"
-  },
-  "nombre": "Profesional de nivel medio de enfermería",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0af"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 20,
-  "creditos": 9
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4d9"
-  },
-  "nombre": "Peón forestales",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0be"
-  },
-  "horasPracticas": 40,
-  "horasTeoricas": 30,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4da"
-  },
-  "nombre": "Tronzador",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef09f"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 20,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4db"
-  },
-  "nombre": "Médico especialista",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0a9"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 40,
-  "creditos": 8
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4dc"
-  },
-  "nombre": "Conserje",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef09d"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 20,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4dd"
-  },
-  "nombre": "Cortador de vidrio",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0c9"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 50,
-  "creditos": 2
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4de"
-  },
-  "nombre": "Calderero",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0b6"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 50,
-  "creditos": 2
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4df"
-  },
-  "nombre": "Gorjadore",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0ab"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 10,
-  "creditos": 2
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4e0"
-  },
-  "nombre": "Físico",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0cb"
-  },
-  "horasPracticas": 50,
   "horasTeoricas": 30,
   "creditos": 7
 },
 {
   "_id": {
-    "$oid": "65dd434f12f1885a854ab4e1"
-  },
-  "nombre": "Trabajador comunitario de la salud",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef086"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 50,
-  "creditos": 6
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4e2"
-  },
-  "nombre": "Gerente de hoteles o restaurantes",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef099"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 20,
-  "creditos": 7
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4e3"
-  },
-  "nombre": "Operador de máquinas de movimiento de tierras",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0bf"
-  },
-  "horasPracticas": 40,
-  "horasTeoricas": 30,
-  "creditos": 7
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4e4"
-  },
-  "nombre": "Empleado de centro de llamadas",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0b1"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 50,
-  "creditos": 4
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4e5"
-  },
-  "nombre": "Técnico en seguridad aeronáutica",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0ba"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 50,
-  "creditos": 8
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4e6"
-  },
-  "nombre": "Cobrador",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0b1"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 20,
-  "creditos": 3
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4e7"
-  },
-  "nombre": "Tipógrafo",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0c8"
-  },
-  "horasPracticas": 40,
-  "horasTeoricas": 10,
-  "creditos": 8
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4e8"
-  },
-  "nombre": "Decorador de interior",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef084"
-  },
-  "horasPracticas": 40,
-  "horasTeoricas": 40,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4e9"
-  },
-  "nombre": "Controlador de plagas y malas hierbas",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0b1"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 10,
-  "creditos": 5
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4ea"
-  },
-  "nombre": "Agente de administración tributaria",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef092"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 50,
-  "creditos": 4
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4eb"
-  },
-  "nombre": "Vendedor de comidas al mostrador",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0a6"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 10,
-  "creditos": 1
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4ec"
-  },
-  "nombre": "Peón de la construcción de edificios",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0da"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 50,
-  "creditos": 3
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4ed"
-  },
-  "nombre": "Operador de incineradores, instalaciones de tratamiento de agua",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef080"
-  },
-  "horasPracticas": 40,
-  "horasTeoricas": 30,
-  "creditos": 1
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4ee"
-  },
-  "nombre": "Fisioterapeuta",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0c6"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 30,
-  "creditos": 2
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4ef"
-  },
-  "nombre": "Secretario (general)",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0be"
-  },
-  "horasPracticas": 40,
-  "horasTeoricas": 20,
-  "creditos": 9
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4f0"
-  },
-  "nombre": "Trabajador pecuario de subsistencia",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0cd"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 30,
-  "creditos": 2
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4f1"
-  },
-  "nombre": "Operador de máquinas de movimiento de tierras",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0a7"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 50,
-  "creditos": 1
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4f2"
-  },
-  "nombre": "Labrante",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0b8"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 20,
-  "creditos": 5
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4f3"
-  },
-  "nombre": "Suboficial de las fuerzas armadas",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef091"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 30,
-  "creditos": 3
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4f4"
-  },
-  "nombre": "Profesional de nivel medio de servicios estadísticos o matemáticos",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0b9"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 20,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4f5"
-  },
-  "nombre": "Peón de minas y canteras",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0a0"
-  },
-  "horasPracticas": 40,
-  "horasTeoricas": 20,
-  "creditos": 3
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4f6"
-  },
-  "nombre": "Vendedor ambulantes (excluyendo de comida)",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0cb"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 20,
-  "creditos": 4
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4f7"
-  },
-  "nombre": "Operador de máquinas para fabricar productos fotográficos",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0db"
-  },
-  "horasPracticas": 40,
-  "horasTeoricas": 10,
-  "creditos": 3
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4f8"
-  },
-  "nombre": "Técnico en ingeniería mecánica",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef083"
-  },
-  "horasPracticas": 40,
-  "horasTeoricas": 40,
-  "creditos": 3
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4f9"
-  },
-  "nombre": "Trabajador comunitario de la salud",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef091"
-  },
-  "horasPracticas": 40,
-  "horasTeoricas": 40,
-  "creditos": 2
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4fa"
-  },
-  "nombre": "Abogado",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef092"
-  },
-  "horasPracticas": 40,
-  "horasTeoricas": 40,
-  "creditos": 3
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4fb"
-  },
-  "nombre": "Técnico de prótesis médicas y dentales",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef082"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 40,
-  "creditos": 8
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4fc"
-  },
-  "nombre": "Declarante de aduana",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0aa"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 20,
-  "creditos": 1
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4fd"
+    "$oid": "65e14acc949fd4cc027c01c3"
   },
   "nombre": "Fontanero",
   "maestro": {
-    "$oid": "65dd433fb399a55c909ef0cd"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 10,
-  "creditos": 7
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4fe"
-  },
-  "nombre": "Tasador",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0d9"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 40,
-  "creditos": 4
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab4ff"
-  },
-  "nombre": "Juez",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0a7"
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddabd"
+    },
+    "primerNombre": "Dolores",
+    "segundoNombre": "Adriana",
+    "apellidoPaterno": "Jimínez",
+    "apellidoMaterno": "Tirado"
   },
   "horasPracticas": 50,
-  "horasTeoricas": 30,
-  "creditos": 7
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab500"
-  },
-  "nombre": "Operario de la conservación de frutas, legumbres y verduras",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef091"
-  },
-  "horasPracticas": 40,
   "horasTeoricas": 30,
   "creditos": 1
 },
 {
   "_id": {
-    "$oid": "65dd434f12f1885a854ab501"
+    "$oid": "65e14acc949fd4cc027c01c4"
   },
-  "nombre": "Cantante",
+  "nombre": "Cajero de banco",
   "maestro": {
-    "$oid": "65dd433fb399a55c909ef083"
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa2c"
+    },
+    "primerNombre": "José María",
+    "segundoNombre": "Salvador",
+    "apellidoPaterno": "de la O",
+    "apellidoMaterno": "Reséndez"
   },
-  "horasPracticas": 40,
-  "horasTeoricas": 20,
-  "creditos": 7
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab502"
-  },
-  "nombre": "Conductor de vehículos y máquinas de tracción animal",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0d1"
-  },
-  "horasPracticas": 40,
-  "horasTeoricas": 50,
-  "creditos": 3
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab503"
-  },
-  "nombre": "Archivista",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0c8"
-  },
-  "horasPracticas": 20,
+  "horasPracticas": 50,
   "horasTeoricas": 40,
   "creditos": 1
 },
 {
   "_id": {
-    "$oid": "65dd434f12f1885a854ab504"
-  },
-  "nombre": "Organizador de conferencias y eventos",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef094"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 40,
-  "creditos": 2
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab505"
-  },
-  "nombre": "Representante comercial",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0be"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 40,
-  "creditos": 9
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab506"
-  },
-  "nombre": "Profesional de partería",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef083"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 50,
-  "creditos": 3
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab507"
+    "$oid": "65e14acc949fd4cc027c01c5"
   },
   "nombre": "Guía de turismo",
   "maestro": {
-    "$oid": "65dd433fb399a55c909ef0de"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 10,
-  "creditos": 5
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab508"
-  },
-  "nombre": "Reparador de bicicletas",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef080"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 10,
-  "creditos": 6
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab509"
-  },
-  "nombre": "Bibliotecarios",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0cd"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 30,
-  "creditos": 4
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab50a"
-  },
-  "nombre": "Conductor de taxis",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0d3"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 20,
-  "creditos": 6
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab50b"
-  },
-  "nombre": "Contable",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0de"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 50,
-  "creditos": 9
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab50c"
-  },
-  "nombre": "Agente de aduanas",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0c5"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 10,
-  "creditos": 3
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab50d"
-  },
-  "nombre": "Peón de explotaciones de cultivos mixtos y ganaderos",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef087"
-  },
-  "horasPracticas": 40,
-  "horasTeoricas": 30,
-  "creditos": 8
-},
-{
-  "_id": {
-    "$oid": "65dd434f12f1885a854ab50e"
-  },
-  "nombre": "Peón de carga",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef08f"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 50,
-  "creditos": 2
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb811"
-  },
-  "nombre": "Fumigador",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0be"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 30,
-  "creditos": 1
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb812"
-  },
-  "nombre": "Escritor",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef081"
-  },
-  "horasPracticas": 40,
-  "horasTeoricas": 30,
-  "creditos": 3
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb813"
-  },
-  "nombre": "Declarante de aduana",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0b3"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 20,
-  "creditos": 9
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb814"
-  },
-  "nombre": "Instructor de autoescuela",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0d7"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 10,
-  "creditos": 5
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb815"
-  },
-  "nombre": "Clasificador de desechos",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0a9"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 30,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb816"
-  },
-  "nombre": "Profesional de nivel medio de enfermería",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0a2"
-  },
-  "horasPracticas": 40,
-  "horasTeoricas": 20,
-  "creditos": 3
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb817"
-  },
-  "nombre": "Audiólogo",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0a1"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 20,
-  "creditos": 9
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb818"
-  },
-  "nombre": "Diseñador de bases de datos",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef08d"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 30,
-  "creditos": 2
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb819"
-  },
-  "nombre": "Electricista de obras",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef084"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 20,
-  "creditos": 3
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb81a"
-  },
-  "nombre": "Operador de instalaciones de refinación de petróleo y gas natural",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0d5"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 20,
-  "creditos": 9
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb81b"
-  },
-  "nombre": "Redactor de carteles, pintor decorativos y grabador",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0bc"
-  },
-  "horasPracticas": 40,
-  "horasTeoricas": 40,
-  "creditos": 3
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb81c"
-  },
-  "nombre": "Profesional de medicina alternativa",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0d9"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 20,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb81d"
-  },
-  "nombre": "Cajero",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0e0"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 50,
-  "creditos": 4
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb81e"
-  },
-  "nombre": "Panaderos, pasteleros y confiteros",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0ad"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 20,
-  "creditos": 9
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb81f"
-  },
-  "nombre": "Técnico en electrónica",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0a2"
-  },
-  "horasPracticas": 40,
-  "horasTeoricas": 50,
-  "creditos": 6
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb820"
-  },
-  "nombre": "Trabajador agrícola de subsistencia",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef099"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 40,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb821"
-  },
-  "nombre": "Lavador de vehículos",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0b8"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 40,
-  "creditos": 4
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb822"
-  },
-  "nombre": "Lavandero",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef07d"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 20,
-  "creditos": 6
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb823"
-  },
-  "nombre": "Cocinero",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0b8"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 10,
-  "creditos": 4
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb824"
-  },
-  "nombre": "Costurero",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0d4"
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa00"
+    },
+    "primerNombre": "Natividad",
+    "segundoNombre": "Indira",
+    "apellidoPaterno": "Valentín",
+    "apellidoMaterno": "Zepeda"
   },
   "horasPracticas": 50,
   "horasTeoricas": 30,
@@ -1440,827 +162,251 @@
 },
 {
   "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb825"
+    "$oid": "65e14acc949fd4cc027c01c6"
   },
-  "nombre": "Empleado de servicios de transporte",
+  "nombre": "Buzo",
   "maestro": {
-    "$oid": "65dd433fb399a55c909ef0b8"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 20,
-  "creditos": 9
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb826"
-  },
-  "nombre": "Operador de maquinaria agrícola y forestal móvil",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0cb"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 10,
-  "creditos": 4
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb827"
-  },
-  "nombre": "Vendedor de quioscos y de puestos de mercado",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0b3"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 50,
-  "creditos": 3
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb828"
-  },
-  "nombre": "Gestor de aduana",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0a1"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 40,
-  "creditos": 8
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb829"
-  },
-  "nombre": "Chef",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef095"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 50,
-  "creditos": 1
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb82a"
-  },
-  "nombre": "Técnico en ciencias biológicas",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef099"
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddaa1"
+    },
+    "primerNombre": "Adalberto",
+    "segundoNombre": "Humberto",
+    "apellidoPaterno": "Zarate",
+    "apellidoMaterno": "Hinojosa"
   },
   "horasPracticas": 40,
-  "horasTeoricas": 30,
-  "creditos": 9
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb82b"
-  },
-  "nombre": "Criador de ganado",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef092"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 30,
-  "creditos": 1
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb82c"
-  },
-  "nombre": "Trabajador comunitario de la salud",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0c7"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 20,
-  "creditos": 6
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb82d"
-  },
-  "nombre": "Cantante",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef07d"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 10,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb82e"
-  },
-  "nombre": "Regulador y operador de máquinas y herramientas",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0b7"
-  },
-  "horasPracticas": 40,
-  "horasTeoricas": 20,
-  "creditos": 3
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb82f"
-  },
-  "nombre": "Técnico de laboratorio médico",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef07f"
-  },
-  "horasPracticas": 40,
-  "horasTeoricas": 40,
-  "creditos": 2
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb830"
-  },
-  "nombre": "Ingeniero electrónico",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0be"
-  },
-  "horasPracticas": 40,
-  "horasTeoricas": 10,
-  "creditos": 9
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb831"
-  },
-  "nombre": "Personal de limpieza",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0a7"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 40,
-  "creditos": 8
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb832"
-  },
-  "nombre": "Tasador",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0ac"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 20,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb833"
-  },
-  "nombre": "Analista de sistemas",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0bd"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 20,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb834"
-  },
-  "nombre": "Conductor de vehículos accionados a pedal o a brazo",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0c8"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 50,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb835"
-  },
-  "nombre": "Albañil",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0c4"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 40,
-  "creditos": 2
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb836"
-  },
-  "nombre": "Agricultor",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0c5"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 30,
-  "creditos": 6
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb837"
-  },
-  "nombre": "Técnico en química industrial",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0c9"
-  },
-  "horasPracticas": 30,
   "horasTeoricas": 20,
   "creditos": 5
 },
 {
   "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb838"
-  },
-  "nombre": "Aparejador",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0cf"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 20,
-  "creditos": 9
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb839"
-  },
-  "nombre": "Perforador y sondista de pozos",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0dc"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 20,
-  "creditos": 6
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb83a"
-  },
-  "nombre": "Lingüista",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0da"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 50,
-  "creditos": 3
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb83b"
-  },
-  "nombre": "Conductor de autobús",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0a8"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 30,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb83c"
-  },
-  "nombre": "Planchador manuales",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0b1"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 20,
-  "creditos": 7
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb83d"
-  },
-  "nombre": "Técnico en ingeniería de minas y metalurgia",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0db"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 40,
-  "creditos": 3
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb83e"
-  },
-  "nombre": "Fontanero",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0a6"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 50,
-  "creditos": 1
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb83f"
-  },
-  "nombre": "Filósofo",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0a5"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 30,
-  "creditos": 7
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb840"
-  },
-  "nombre": "Peluqueros",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0aa"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 30,
-  "creditos": 9
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb841"
-  },
-  "nombre": "Guardián de prisión",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef09a"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 40,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb842"
-  },
-  "nombre": "Cuidador de animales",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0d8"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 10,
-  "creditos": 9
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb843"
-  },
-  "nombre": "Administrador de bases de datos",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef087"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 20,
-  "creditos": 1
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb844"
-  },
-  "nombre": "Director de industrias manufactureras",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0d8"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 50,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb845"
-  },
-  "nombre": "Supervisor de industria manufacturera",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0db"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 10,
-  "creditos": 1
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb846"
-  },
-  "nombre": "Constructor de casas",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef08f"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 10,
-  "creditos": 3
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb847"
-  },
-  "nombre": "Profesional de medicina alternativa",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0a2"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 30,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb848"
-  },
-  "nombre": "Artesano",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef08b"
-  },
-  "horasPracticas": 40,
-  "horasTeoricas": 10,
-  "creditos": 2
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb849"
-  },
-  "nombre": "Supervisor de mantenimiento y limpieza en oficinas, hoteles y otros establecimientos",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef07f"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 30,
-  "creditos": 6
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb84a"
-  },
-  "nombre": "Laminador de vidrio",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef084"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 30,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb84b"
-  },
-  "nombre": "Cajero de banco",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef09d"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 20,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb84c"
-  },
-  "nombre": "Operador de telar y otras máquinas tejedoras",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0a9"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 30,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb84d"
-  },
-  "nombre": "Ensamblador de equipos electrónicos",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0b5"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 50,
-  "creditos": 1
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb84e"
-  },
-  "nombre": "Zoólogo",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef091"
-  },
-  "horasPracticas": 40,
-  "horasTeoricas": 30,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb84f"
-  },
-  "nombre": "Periodista",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0de"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 50,
-  "creditos": 5
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb850"
-  },
-  "nombre": "Panaderos, pasteleros y confiteros",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0be"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 30,
-  "creditos": 3
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb851"
-  },
-  "nombre": "Mampostero",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0b6"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 40,
-  "creditos": 7
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb852"
-  },
-  "nombre": "Fumigador",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0bd"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 10,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb853"
-  },
-  "nombre": "Empleado de contabilidad y cálculo de costos",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef07d"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 40,
-  "creditos": 1
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb854"
-  },
-  "nombre": "Ayudante de cámara",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0cc"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 40,
-  "creditos": 2
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb855"
-  },
-  "nombre": "Operador de máquinas para fabricar productos fotográficos",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0d9"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 30,
-  "creditos": 9
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb856"
-  },
-  "nombre": "Analista de sistemas",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0ae"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 20,
-  "creditos": 8
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb857"
-  },
-  "nombre": "Herrero",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef09f"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 20,
-  "creditos": 7
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb858"
-  },
-  "nombre": "Limpiador y asistente doméstico",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef099"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 40,
-  "creditos": 5
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb859"
-  },
-  "nombre": "Ingeniero civil",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef07d"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 50,
-  "creditos": 5
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb85a"
-  },
-  "nombre": "Dentista",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0c4"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 10,
-  "creditos": 6
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb85b"
-  },
-  "nombre": "Laminador de vidrio",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef08b"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 50,
-  "creditos": 6
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb85c"
-  },
-  "nombre": "Filósofo",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef08b"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 50,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb85d"
-  },
-  "nombre": "Ayudante de odontología",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef07d"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 30,
-  "creditos": 7
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb85e"
-  },
-  "nombre": "Vendedor de comidas al mostrador",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0c4"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 10,
-  "creditos": 2
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb85f"
-  },
-  "nombre": "Mandader",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0ab"
-  },
-  "horasPracticas": 40,
-  "horasTeoricas": 10,
-  "creditos": 3
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb860"
-  },
-  "nombre": "Agente de servicios de seguridad social",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef08e"
-  },
-  "horasPracticas": 40,
-  "horasTeoricas": 10,
-  "creditos": 4
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb861"
-  },
-  "nombre": "Zoólogo",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0ba"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 40,
-  "creditos": 6
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb862"
-  },
-  "nombre": "Cartógrafo",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef07f"
-  },
-  "horasPracticas": 50,
-  "horasTeoricas": 30,
-  "creditos": 4
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb863"
-  },
-  "nombre": "Operador de telar y otras máquinas tejedoras",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0d4"
-  },
-  "horasPracticas": 10,
-  "horasTeoricas": 10,
-  "creditos": 9
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb864"
+    "$oid": "65e14acc949fd4cc027c01c7"
   },
   "nombre": "Director de explotaciones de minería",
   "maestro": {
-    "$oid": "65dd433fb399a55c909ef0a7"
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddabd"
+    },
+    "primerNombre": "Wendolin",
+    "segundoNombre": "Itzel",
+    "apellidoPaterno": "Uribe",
+    "apellidoMaterno": "Elizondo"
   },
-  "horasPracticas": 40,
+  "horasPracticas": 30,
   "horasTeoricas": 20,
-  "creditos": 3
+  "creditos": 2
 },
 {
   "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb865"
+    "$oid": "65e14acc949fd4cc027c01c8"
   },
-  "nombre": "Deshollinador",
+  "nombre": "Pulidor de vidrio",
   "maestro": {
-    "$oid": "65dd433fb399a55c909ef088"
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa1e"
+    },
+    "primerNombre": "Wendolin",
+    "segundoNombre": "Maximiliano",
+    "apellidoPaterno": "Nava",
+    "apellidoMaterno": "de la Fuente"
   },
-  "horasPracticas": 30,
+  "horasPracticas": 10,
+  "horasTeoricas": 30,
+  "creditos": 7
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01c9"
+  },
+  "nombre": "Operador de máquinas para la fabricación de calzado",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11f9f1"
+    },
+    "primerNombre": "Mauro",
+    "segundoNombre": "Porfirio",
+    "apellidoPaterno": "Vergara",
+    "apellidoMaterno": "Valdés"
+  },
+  "horasPracticas": 10,
   "horasTeoricas": 10,
   "creditos": 10
 },
 {
   "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb866"
+    "$oid": "65e14acc949fd4cc027c01ca"
   },
-  "nombre": "Guardián de prisión",
+  "nombre": "Instalador y reparador de líneas eléctricas",
   "maestro": {
-    "$oid": "65dd433fb399a55c909ef082"
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa2e"
+    },
+    "primerNombre": "Mario",
+    "segundoNombre": "Camila",
+    "apellidoPaterno": "Muñiz",
+    "apellidoMaterno": "Valle"
   },
-  "horasPracticas": 40,
-  "horasTeoricas": 40,
-  "creditos": 1
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb867"
-  },
-  "nombre": "Operador de instalaciones de tratamiento de agua",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef0af"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 40,
+  "horasPracticas": 50,
+  "horasTeoricas": 20,
   "creditos": 5
 },
 {
   "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb868"
+    "$oid": "65e14acc949fd4cc027c01cb"
   },
-  "nombre": "Regulador y operador de máquinas y herramientas",
+  "nombre": "Repartidor",
   "maestro": {
-    "$oid": "65dd433fb399a55c909ef0c1"
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa35"
+    },
+    "primerNombre": "Jacobo",
+    "segundoNombre": "Elsa",
+    "apellidoPaterno": "Velázquez",
+    "apellidoMaterno": "Huerta"
   },
-  "horasPracticas": 30,
-  "horasTeoricas": 50,
-  "creditos": 4
+  "horasPracticas": 20,
+  "horasTeoricas": 10,
+  "creditos": 3
 },
 {
   "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb869"
+    "$oid": "65e14acc949fd4cc027c01cc"
   },
-  "nombre": "Técnico en seguridad aeronáutica",
+  "nombre": "Policías",
   "maestro": {
-    "$oid": "65dd433fb399a55c909ef081"
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddad0"
+    },
+    "primerNombre": "Gabriel",
+    "segundoNombre": "Genaro",
+    "apellidoPaterno": "Aparicio",
+    "apellidoMaterno": "Beltrán"
+  },
+  "horasPracticas": 30,
+  "horasTeoricas": 50,
+  "creditos": 1
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01cd"
+  },
+  "nombre": "Técnico en ingeniería mecánica",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddad5"
+    },
+    "primerNombre": "Amalia",
+    "segundoNombre": "Mónica",
+    "apellidoPaterno": "Altamirano",
+    "apellidoMaterno": "Arreola"
+  },
+  "horasPracticas": 40,
+  "horasTeoricas": 10,
+  "creditos": 3
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01ce"
+  },
+  "nombre": "Bibliotecarios",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11f9dd"
+    },
+    "primerNombre": "Rolando",
+    "segundoNombre": "Paulina",
+    "apellidoPaterno": "Colunga",
+    "apellidoMaterno": "Tirado"
+  },
+  "horasPracticas": 50,
+  "horasTeoricas": 50,
+  "creditos": 5
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01cf"
+  },
+  "nombre": "Revocador",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddabb"
+    },
+    "primerNombre": "Hilda",
+    "segundoNombre": "Asunción",
+    "apellidoPaterno": "Mendoza",
+    "apellidoMaterno": "Urbina"
+  },
+  "horasPracticas": 20,
+  "horasTeoricas": 20,
+  "creditos": 6
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01d0"
+  },
+  "nombre": "Lingüista",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa2b"
+    },
+    "primerNombre": "Aida",
+    "segundoNombre": "Alejandra",
+    "apellidoPaterno": "Palomino",
+    "apellidoMaterno": "Gutiérrez"
+  },
+  "horasPracticas": 40,
+  "horasTeoricas": 10,
+  "creditos": 7
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01d1"
+  },
+  "nombre": "Personal de limpieza",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddadb"
+    },
+    "primerNombre": "Dulce",
+    "segundoNombre": "Amanda",
+    "apellidoPaterno": "Prieto",
+    "apellidoMaterno": "Bustos"
+  },
+  "horasPracticas": 10,
+  "horasTeoricas": 10,
+  "creditos": 6
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01d2"
+  },
+  "nombre": "Platero",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa1d"
+    },
+    "primerNombre": "Amelia",
+    "segundoNombre": "Pedro",
+    "apellidoPaterno": "Uribe",
+    "apellidoMaterno": "de la Fuente"
+  },
+  "horasPracticas": 20,
+  "horasTeoricas": 30,
+  "creditos": 3
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01d3"
+  },
+  "nombre": "Operador de máquinas para fabricar productos de papel",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa35"
+    },
+    "primerNombre": "Zoé",
+    "segundoNombre": "Jaqueline",
+    "apellidoPaterno": "Pichardo",
+    "apellidoMaterno": "Luna"
   },
   "horasPracticas": 10,
   "horasTeoricas": 40,
@@ -2268,71 +414,503 @@
 },
 {
   "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb86a"
+    "$oid": "65e14acc949fd4cc027c01d4"
   },
-  "nombre": "Labrante",
+  "nombre": "Secretario ejecutivo",
   "maestro": {
-    "$oid": "65dd433fb399a55c909ef0d6"
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11f9ed"
+    },
+    "primerNombre": "Gabriel",
+    "segundoNombre": "Julio César",
+    "apellidoPaterno": "Puga",
+    "apellidoMaterno": "Espino"
   },
-  "horasPracticas": 30,
-  "horasTeoricas": 10,
-  "creditos": 10
+  "horasPracticas": 10,
+  "horasTeoricas": 30,
+  "creditos": 2
 },
 {
   "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb86b"
+    "$oid": "65e14acc949fd4cc027c01d5"
   },
   "nombre": "Agente de maniobras",
   "maestro": {
-    "$oid": "65dd433fb399a55c909ef086"
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4dda9e"
+    },
+    "primerNombre": "Alejandro",
+    "segundoNombre": "Víctor",
+    "apellidoPaterno": "Galván",
+    "apellidoMaterno": "Gonzales"
   },
-  "horasPracticas": 50,
-  "horasTeoricas": 30,
-  "creditos": 3
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb86c"
-  },
-  "nombre": "Limpiador y asistente de oficinas, hoteles y otros establecimientos",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef08e"
-  },
-  "horasPracticas": 20,
-  "horasTeoricas": 50,
-  "creditos": 10
-},
-{
-  "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb86d"
-  },
-  "nombre": "Maquinista de locomotoras",
-  "maestro": {
-    "$oid": "65dd433fb399a55c909ef08c"
-  },
-  "horasPracticas": 30,
-  "horasTeoricas": 20,
+  "horasPracticas": 10,
+  "horasTeoricas": 10,
   "creditos": 9
 },
 {
   "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb86e"
+    "$oid": "65e14acc949fd4cc027c01d6"
   },
-  "nombre": "Zapatero",
+  "nombre": "Agente de compras",
   "maestro": {
-    "$oid": "65dd433fb399a55c909ef0a2"
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa14"
+    },
+    "primerNombre": "Dolores",
+    "segundoNombre": "Liliana",
+    "apellidoPaterno": "Santillán",
+    "apellidoMaterno": "Razo"
+  },
+  "horasPracticas": 20,
+  "horasTeoricas": 10,
+  "creditos": 1
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01d7"
+  },
+  "nombre": "Operador de máquinas para elaborar alimentos y productos afines",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa2d"
+    },
+    "primerNombre": "Héctor",
+    "segundoNombre": "Genaro",
+    "apellidoPaterno": "Montenegro",
+    "apellidoMaterno": "Tirado"
+  },
+  "horasPracticas": 40,
+  "horasTeoricas": 40,
+  "creditos": 5
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01d8"
+  },
+  "nombre": "Zoólogo",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddaaa"
+    },
+    "primerNombre": "Anabel",
+    "segundoNombre": "Adriana",
+    "apellidoPaterno": "Pichardo",
+    "apellidoMaterno": "Osorio"
+  },
+  "horasPracticas": 40,
+  "horasTeoricas": 30,
+  "creditos": 1
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01d9"
+  },
+  "nombre": "Profesor de música",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa27"
+    },
+    "primerNombre": "Luisa",
+    "segundoNombre": "Germán",
+    "apellidoPaterno": "Uribe",
+    "apellidoMaterno": "Aguilar"
+  },
+  "horasPracticas": 50,
+  "horasTeoricas": 10,
+  "creditos": 8
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01da"
+  },
+  "nombre": "Supervisor de la construcción",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddaed"
+    },
+    "primerNombre": "Blanca",
+    "segundoNombre": "Dolores",
+    "apellidoPaterno": "Lara",
+    "apellidoMaterno": "Valdivia"
+  },
+  "horasPracticas": 20,
+  "horasTeoricas": 10,
+  "creditos": 2
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01db"
+  },
+  "nombre": "Audiólogo",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddacc"
+    },
+    "primerNombre": "Rosalia",
+    "segundoNombre": "Gabriel",
+    "apellidoPaterno": "Rosario",
+    "apellidoMaterno": "Solorio"
+  },
+  "horasPracticas": 30,
+  "horasTeoricas": 40,
+  "creditos": 2
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01dc"
+  },
+  "nombre": "Deshollinador",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11f9f4"
+    },
+    "primerNombre": "Cristian",
+    "segundoNombre": "Eugenia",
+    "apellidoPaterno": "Porras",
+    "apellidoMaterno": "Concepción"
+  },
+  "horasPracticas": 40,
+  "horasTeoricas": 50,
+  "creditos": 3
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01dd"
+  },
+  "nombre": "Empalmador de cables",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddadb"
+    },
+    "primerNombre": "Abril",
+    "segundoNombre": "Natividad",
+    "apellidoPaterno": "Sanches",
+    "apellidoMaterno": "Luna"
+  },
+  "horasPracticas": 20,
+  "horasTeoricas": 20,
+  "creditos": 6
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01de"
+  },
+  "nombre": "Empleado de contabilidad y cálculo de costos",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddac8"
+    },
+    "primerNombre": "Fernando",
+    "segundoNombre": "Noelia",
+    "apellidoPaterno": "Herrera",
+    "apellidoMaterno": "Porras"
   },
   "horasPracticas": 10,
+  "horasTeoricas": 10,
+  "creditos": 7
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01df"
+  },
+  "nombre": "Analista financiero",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddac3"
+    },
+    "primerNombre": "Camilo",
+    "segundoNombre": "Hermelinda",
+    "apellidoPaterno": "Villalpando",
+    "apellidoMaterno": "Tovar"
+  },
+  "horasPracticas": 30,
+  "horasTeoricas": 50,
+  "creditos": 6
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01e0"
+  },
+  "nombre": "Catador de bebidas",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddaaf"
+    },
+    "primerNombre": "María Cristina",
+    "segundoNombre": "Alta  Gracia",
+    "apellidoPaterno": "Montez",
+    "apellidoMaterno": "Fonseca"
+  },
+  "horasPracticas": 30,
+  "horasTeoricas": 30,
+  "creditos": 7
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01e1"
+  },
+  "nombre": "Profesional de la salud y la higiene laboral y ambiental",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11f9dd"
+    },
+    "primerNombre": "Lorenzo",
+    "segundoNombre": "Agustín",
+    "apellidoPaterno": "Terrazas",
+    "apellidoMaterno": "Toro"
+  },
+  "horasPracticas": 10,
+  "horasTeoricas": 20,
+  "creditos": 6
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01e2"
+  },
+  "nombre": "Técnico en ciencias físicas y químicas",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11f9f3"
+    },
+    "primerNombre": "Beatriz",
+    "segundoNombre": "Irene",
+    "apellidoPaterno": "Arredondo",
+    "apellidoMaterno": "Bustos"
+  },
+  "horasPracticas": 40,
+  "horasTeoricas": 30,
+  "creditos": 4
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01e3"
+  },
+  "nombre": "Parquetero y colocador de suelos",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa15"
+    },
+    "primerNombre": "Espartaco",
+    "segundoNombre": "Clara",
+    "apellidoPaterno": "Quiñónez",
+    "apellidoMaterno": "Bustamante"
+  },
+  "horasPracticas": 30,
+  "horasTeoricas": 50,
+  "creditos": 1
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01e4"
+  },
+  "nombre": "Cortador de vidrio",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa27"
+    },
+    "primerNombre": "Wendolin",
+    "segundoNombre": "Luis Miguel",
+    "apellidoPaterno": "Montez",
+    "apellidoMaterno": "Tovar"
+  },
+  "horasPracticas": 50,
+  "horasTeoricas": 10,
+  "creditos": 4
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01e5"
+  },
+  "nombre": "Receptor de apuestas",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11f9fe"
+    },
+    "primerNombre": "Gabriel",
+    "segundoNombre": "Alfredo",
+    "apellidoPaterno": "Galindo",
+    "apellidoMaterno": "del Río"
+  },
+  "horasPracticas": 10,
+  "horasTeoricas": 50,
+  "creditos": 8
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01e6"
+  },
+  "nombre": "Ingeniero en telecomunicaciones",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddadd"
+    },
+    "primerNombre": "Gabriel",
+    "segundoNombre": "Maximiliano",
+    "apellidoPaterno": "Irizarry",
+    "apellidoMaterno": "Zedillo"
+  },
+  "horasPracticas": 50,
+  "horasTeoricas": 50,
+  "creditos": 1
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01e7"
+  },
+  "nombre": "Agente de servicios de seguridad social",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4dda9b"
+    },
+    "primerNombre": "Josefina",
+    "segundoNombre": "Jorge Luis",
+    "apellidoPaterno": "Cedillo",
+    "apellidoMaterno": "Vázquez"
+  },
+  "horasPracticas": 50,
+  "horasTeoricas": 40,
+  "creditos": 5
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01e8"
+  },
+  "nombre": "Peón de pesca y acuicultura",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11f9fe"
+    },
+    "primerNombre": "Alejandra",
+    "segundoNombre": "Eduardo",
+    "apellidoPaterno": "Muñoz",
+    "apellidoMaterno": "Marrero"
+  },
+  "horasPracticas": 40,
+  "horasTeoricas": 10,
+  "creditos": 4
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01e9"
+  },
+  "nombre": "Maestro preescolar",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11f9f3"
+    },
+    "primerNombre": "Mercedes",
+    "segundoNombre": "Noelia",
+    "apellidoPaterno": "Pulido",
+    "apellidoMaterno": "Tovar"
+  },
+  "horasPracticas": 40,
   "horasTeoricas": 40,
   "creditos": 6
 },
 {
   "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb86f"
+    "$oid": "65e14acc949fd4cc027c01ea"
   },
-  "nombre": "Mayordomo doméstico",
+  "nombre": "Abogado",
   "maestro": {
-    "$oid": "65dd433fb399a55c909ef0c6"
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11f9f9"
+    },
+    "primerNombre": "Wilfrido",
+    "segundoNombre": "Julia",
+    "apellidoPaterno": "Quiñónez",
+    "apellidoMaterno": "Suárez"
+  },
+  "horasPracticas": 50,
+  "horasTeoricas": 30,
+  "creditos": 5
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01eb"
+  },
+  "nombre": "Guía de turismo",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa23"
+    },
+    "primerNombre": "Juana",
+    "segundoNombre": "Mónica",
+    "apellidoPaterno": "Lozada",
+    "apellidoMaterno": "Véliz"
+  },
+  "horasPracticas": 50,
+  "horasTeoricas": 20,
+  "creditos": 3
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01ec"
+  },
+  "nombre": "Albañil",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddade"
+    },
+    "primerNombre": "César",
+    "segundoNombre": "Liliana",
+    "apellidoPaterno": "Pizarro",
+    "apellidoMaterno": "Pulido"
+  },
+  "horasPracticas": 30,
+  "horasTeoricas": 30,
+  "creditos": 8
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01ed"
+  },
+  "nombre": "Barrendero",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddacd"
+    },
+    "primerNombre": "Mauro",
+    "segundoNombre": "Fernando",
+    "apellidoPaterno": "Puga",
+    "apellidoMaterno": "Arevalo"
+  },
+  "horasPracticas": 10,
+  "horasTeoricas": 40,
+  "creditos": 10
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01ee"
+  },
+  "nombre": "Profesional de la protección medioambiental",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa0c"
+    },
+    "primerNombre": "Elvira",
+    "segundoNombre": "Dolores",
+    "apellidoPaterno": "Gómez",
+    "apellidoMaterno": "Guillen"
+  },
+  "horasPracticas": 50,
+  "horasTeoricas": 50,
+  "creditos": 2
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01ef"
+  },
+  "nombre": "Recepcionista de hoteles",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa0a"
+    },
+    "primerNombre": "Roberto",
+    "segundoNombre": "Andrés",
+    "apellidoPaterno": "Ontiveros",
+    "apellidoMaterno": "Camacho"
   },
   "horasPracticas": 30,
   "horasTeoricas": 20,
@@ -2340,11 +918,611 @@
 },
 {
   "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb870"
+    "$oid": "65e14acc949fd4cc027c01f0"
   },
-  "nombre": "Operador de máquinas de procesamiento de texto y mecanógrafos",
+  "nombre": "Técnico en documentación sanitaria",
   "maestro": {
-    "$oid": "65dd433fb399a55c909ef0b3"
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddae7"
+    },
+    "primerNombre": "Gabriel",
+    "segundoNombre": "Porfirio",
+    "apellidoPaterno": "Brito",
+    "apellidoMaterno": "Tovar"
+  },
+  "horasPracticas": 40,
+  "horasTeoricas": 30,
+  "creditos": 4
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01f1"
+  },
+  "nombre": "Maestro preescolar",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11f9e6"
+    },
+    "primerNombre": "Carla",
+    "segundoNombre": "Noelia",
+    "apellidoPaterno": "Fuentes",
+    "apellidoMaterno": "Alarcón"
+  },
+  "horasPracticas": 20,
+  "horasTeoricas": 50,
+  "creditos": 8
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01f2"
+  },
+  "nombre": "Director de políticas y planificación",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddaa1"
+    },
+    "primerNombre": "Lilia",
+    "segundoNombre": "Jorge Luis",
+    "apellidoPaterno": "Saucedo",
+    "apellidoMaterno": "Esquibel"
+  },
+  "horasPracticas": 30,
+  "horasTeoricas": 20,
+  "creditos": 7
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01f3"
+  },
+  "nombre": "Psicólogo",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11f9dd"
+    },
+    "primerNombre": "Eduardo",
+    "segundoNombre": "Juana",
+    "apellidoPaterno": "Caldera",
+    "apellidoMaterno": "Aponte"
+  },
+  "horasPracticas": 40,
+  "horasTeoricas": 50,
+  "creditos": 3
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01f4"
+  },
+  "nombre": "Asistente fisioterapeuta",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa3b"
+    },
+    "primerNombre": "Noelia",
+    "segundoNombre": "Felipe",
+    "apellidoPaterno": "Olivera",
+    "apellidoMaterno": "Villarreal"
+  },
+  "horasPracticas": 40,
+  "horasTeoricas": 10,
+  "creditos": 9
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01f5"
+  },
+  "nombre": "Instructor de educación física y actividades recreativas",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddaad"
+    },
+    "primerNombre": "Carlota",
+    "segundoNombre": "Amalia",
+    "apellidoPaterno": "Terrazas",
+    "apellidoMaterno": "Ballesteros"
+  },
+  "horasPracticas": 10,
+  "horasTeoricas": 50,
+  "creditos": 5
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01f6"
+  },
+  "nombre": "Techador",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4dda94"
+    },
+    "primerNombre": "Gabriel",
+    "segundoNombre": "Ruby",
+    "apellidoPaterno": "Romo",
+    "apellidoMaterno": "Carrillo"
+  },
+  "horasPracticas": 10,
+  "horasTeoricas": 40,
+  "creditos": 6
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01f7"
+  },
+  "nombre": "Operador de máquinas de embalaje, embotellamiento y etiquetado ",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa21"
+    },
+    "primerNombre": "María Teresa",
+    "segundoNombre": "Maximiliano",
+    "apellidoPaterno": "Posada",
+    "apellidoMaterno": "Blanco"
+  },
+  "horasPracticas": 20,
+  "horasTeoricas": 30,
+  "creditos": 1
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01f8"
+  },
+  "nombre": "Revisor y cobrador de los transportes públicos",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa35"
+    },
+    "primerNombre": "Amador",
+    "segundoNombre": "César",
+    "apellidoPaterno": "Saiz",
+    "apellidoMaterno": "Pedraza"
+  },
+  "horasPracticas": 30,
+  "horasTeoricas": 10,
+  "creditos": 3
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01f9"
+  },
+  "nombre": "Modelo de moda, arte y publicidad",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddaaf"
+    },
+    "primerNombre": "Aldo",
+    "segundoNombre": "Alta  Gracia",
+    "apellidoPaterno": "Bustos",
+    "apellidoMaterno": "Zedillo"
+  },
+  "horasPracticas": 20,
+  "horasTeoricas": 10,
+  "creditos": 3
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01fa"
+  },
+  "nombre": "Trabajador comunitario de la salud",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddae4"
+    },
+    "primerNombre": "Jaqueline",
+    "segundoNombre": "Zacarías",
+    "apellidoPaterno": "Burgos",
+    "apellidoMaterno": "Marrero"
+  },
+  "horasPracticas": 30,
+  "horasTeoricas": 50,
+  "creditos": 1
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01fb"
+  },
+  "nombre": "Jefe de pequeñas poblaciones",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddaa2"
+    },
+    "primerNombre": "Silvia",
+    "segundoNombre": "Aldo",
+    "apellidoPaterno": "Ojeda",
+    "apellidoMaterno": "Terrazas"
+  },
+  "horasPracticas": 50,
+  "horasTeoricas": 40,
+  "creditos": 5
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01fc"
+  },
+  "nombre": "Empleado de centro de llamadas",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11f9ff"
+    },
+    "primerNombre": "Carlota",
+    "segundoNombre": "Maximiliano",
+    "apellidoPaterno": "Muñiz",
+    "apellidoMaterno": "Elizondo"
+  },
+  "horasPracticas": 10,
+  "horasTeoricas": 10,
+  "creditos": 9
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01fd"
+  },
+  "nombre": "Operador de instalaciones de vidriería y cerámica",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddace"
+    },
+    "primerNombre": "Benjamín",
+    "segundoNombre": "Wendolin",
+    "apellidoPaterno": "Maestas",
+    "apellidoMaterno": "Jimínez"
+  },
+  "horasPracticas": 40,
+  "horasTeoricas": 10,
+  "creditos": 9
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01fe"
+  },
+  "nombre": "Operador de instalaciones de tratamiento de agua",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa26"
+    },
+    "primerNombre": "Germán",
+    "segundoNombre": "Itzel",
+    "apellidoPaterno": "Collado",
+    "apellidoMaterno": "Saucedo"
+  },
+  "horasPracticas": 30,
+  "horasTeoricas": 20,
+  "creditos": 7
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c01ff"
+  },
+  "nombre": "Impresor",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa28"
+    },
+    "primerNombre": "Ofelia",
+    "segundoNombre": "Leticia",
+    "apellidoPaterno": "Rodrígez",
+    "apellidoMaterno": "Esparza"
+  },
+  "horasPracticas": 10,
+  "horasTeoricas": 40,
+  "creditos": 6
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c0200"
+  },
+  "nombre": "Físico",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4dda94"
+    },
+    "primerNombre": "Santiago",
+    "segundoNombre": "Juan Carlos",
+    "apellidoPaterno": "Bustos",
+    "apellidoMaterno": "Marín"
+  },
+  "horasPracticas": 50,
+  "horasTeoricas": 10,
+  "creditos": 6
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c0201"
+  },
+  "nombre": "Auxiliar de maestro",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa2d"
+    },
+    "primerNombre": "Gerardo",
+    "segundoNombre": "Soledad",
+    "apellidoPaterno": "Mercado",
+    "apellidoMaterno": "Bustos"
+  },
+  "horasPracticas": 40,
+  "horasTeoricas": 40,
+  "creditos": 6
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c0202"
+  },
+  "nombre": "Sombrerero",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa1a"
+    },
+    "primerNombre": "Andrea",
+    "segundoNombre": "Ana Luisa",
+    "apellidoPaterno": "Barrios",
+    "apellidoMaterno": "Luna"
+  },
+  "horasPracticas": 30,
+  "horasTeoricas": 50,
+  "creditos": 1
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c0203"
+  },
+  "nombre": "Agrimensor",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddac0"
+    },
+    "primerNombre": "Carlos",
+    "segundoNombre": "Maximiliano",
+    "apellidoPaterno": "Centeno",
+    "apellidoMaterno": "Zarate"
+  },
+  "horasPracticas": 50,
+  "horasTeoricas": 30,
+  "creditos": 2
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c0204"
+  },
+  "nombre": "Maquinista de locomotoras",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa14"
+    },
+    "primerNombre": "Cynthia",
+    "segundoNombre": "Sara",
+    "apellidoPaterno": "Zambrano",
+    "apellidoMaterno": "López"
+  },
+  "horasPracticas": 20,
+  "horasTeoricas": 50,
+  "creditos": 7
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c0205"
+  },
+  "nombre": "Conductor de taxis",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddaab"
+    },
+    "primerNombre": "Ariadna",
+    "segundoNombre": "Hermelinda",
+    "apellidoPaterno": "López",
+    "apellidoMaterno": "Medina"
+  },
+  "horasPracticas": 40,
+  "horasTeoricas": 20,
+  "creditos": 1
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c0206"
+  },
+  "nombre": "Oficial maquinistas en navegación",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddaca"
+    },
+    "primerNombre": "Rosalia",
+    "segundoNombre": "Silvano",
+    "apellidoPaterno": "López",
+    "apellidoMaterno": "Cepeda"
+  },
+  "horasPracticas": 20,
+  "horasTeoricas": 40,
+  "creditos": 6
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c0207"
+  },
+  "nombre": "Técnico en ciencias biológicas",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa20"
+    },
+    "primerNombre": "Tania",
+    "segundoNombre": "Trinidad",
+    "apellidoPaterno": "Núñez",
+    "apellidoMaterno": "Lara"
+  },
+  "horasPracticas": 50,
+  "horasTeoricas": 50,
+  "creditos": 2
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c0208"
+  },
+  "nombre": "Entrevistador de encuestas",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddad7"
+    },
+    "primerNombre": "Pilar",
+    "segundoNombre": "Pedro",
+    "apellidoPaterno": "Irizarry",
+    "apellidoMaterno": "Partida"
+  },
+  "horasPracticas": 20,
+  "horasTeoricas": 20,
+  "creditos": 4
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c0209"
+  },
+  "nombre": "Técnico en asistencia al usuario de tecnología de la información y las comunicaciones",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11f9db"
+    },
+    "primerNombre": "Noelia",
+    "segundoNombre": "Adriana",
+    "apellidoPaterno": "Guevara",
+    "apellidoMaterno": "Concepción"
+  },
+  "horasPracticas": 20,
+  "horasTeoricas": 20,
+  "creditos": 10
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c020a"
+  },
+  "nombre": "Criador de ganado",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa15"
+    },
+    "primerNombre": "Fabiola",
+    "segundoNombre": "Hermelinda",
+    "apellidoPaterno": "Colunga",
+    "apellidoMaterno": "Lemus"
+  },
+  "horasPracticas": 10,
+  "horasTeoricas": 10,
+  "creditos": 2
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c020b"
+  },
+  "nombre": "Analista financiero",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa2a"
+    },
+    "primerNombre": "Ruby",
+    "segundoNombre": "Reynaldo",
+    "apellidoPaterno": "León",
+    "apellidoMaterno": "Campos"
+  },
+  "horasPracticas": 20,
+  "horasTeoricas": 30,
+  "creditos": 9
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c020c"
+  },
+  "nombre": "Técnico en redes y sistemas de computadores",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddad9"
+    },
+    "primerNombre": "Ofelia",
+    "segundoNombre": "Irene",
+    "apellidoPaterno": "Montez",
+    "apellidoMaterno": "Arroyo"
+  },
+  "horasPracticas": 10,
+  "horasTeoricas": 10,
+  "creditos": 3
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c020d"
+  },
+  "nombre": "Instalador y reparador en tecnología de la información y las comunicaciones",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa16"
+    },
+    "primerNombre": "Wendolin",
+    "segundoNombre": "Marcos",
+    "apellidoPaterno": "Pichardo",
+    "apellidoMaterno": "Salgado"
+  },
+  "horasPracticas": 30,
+  "horasTeoricas": 10,
+  "creditos": 3
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c020e"
+  },
+  "nombre": "Agente de servicios de expedición de licencias y permisos",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa3b"
+    },
+    "primerNombre": "Wilfrido",
+    "segundoNombre": "Zacarías",
+    "apellidoPaterno": "Blanco",
+    "apellidoMaterno": "Pedraza"
+  },
+  "horasPracticas": 40,
+  "horasTeoricas": 20,
+  "creditos": 6
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c020f"
+  },
+  "nombre": "Mecánico y reparador en electrónica",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddaac"
+    },
+    "primerNombre": "Jacobo",
+    "segundoNombre": "Reynaldo",
+    "apellidoPaterno": "Velázquez",
+    "apellidoMaterno": "Sáenz"
+  },
+  "horasPracticas": 50,
+  "horasTeoricas": 10,
+  "creditos": 9
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c0210"
+  },
+  "nombre": "Soplador de vidrio",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddaa4"
+    },
+    "primerNombre": "Carlota",
+    "segundoNombre": "Bernardo",
+    "apellidoPaterno": "Castellanos",
+    "apellidoMaterno": "Ballesteros"
+  },
+  "horasPracticas": 50,
+  "horasTeoricas": 40,
+  "creditos": 9
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c0211"
+  },
+  "nombre": "Actor",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddaf2"
+    },
+    "primerNombre": "Ángela",
+    "segundoNombre": "Germán",
+    "apellidoPaterno": "Dávila",
+    "apellidoMaterno": "Valdés"
   },
   "horasPracticas": 50,
   "horasTeoricas": 40,
@@ -2352,49 +1530,271 @@
 },
 {
   "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb871"
+    "$oid": "65e14acc949fd4cc027c0212"
   },
-  "nombre": "Director de cine",
+  "nombre": "Músico",
   "maestro": {
-    "$oid": "65dd433fb399a55c909ef0b8"
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4dda9e"
+    },
+    "primerNombre": "Carlos",
+    "segundoNombre": "Daniela",
+    "apellidoPaterno": "Paz",
+    "apellidoMaterno": "Matías"
+  },
+  "horasPracticas": 20,
+  "horasTeoricas": 40,
+  "creditos": 5
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c0213"
+  },
+  "nombre": "Limpiador de fachadas",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11f9e8"
+    },
+    "primerNombre": "Lorenzo",
+    "segundoNombre": "Delia",
+    "apellidoPaterno": "Casas",
+    "apellidoMaterno": "Zarate"
+  },
+  "horasPracticas": 30,
+  "horasTeoricas": 10,
+  "creditos": 9
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c0214"
+  },
+  "nombre": "Oficial de cubierta",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa02"
+    },
+    "primerNombre": "Cynthia",
+    "segundoNombre": "Noelia",
+    "apellidoPaterno": "Girón",
+    "apellidoMaterno": "Garica"
+  },
+  "horasPracticas": 20,
+  "horasTeoricas": 40,
+  "creditos": 9
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c0215"
+  },
+  "nombre": "Supervisor de industria manufacturera",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddae5"
+    },
+    "primerNombre": "Santiago",
+    "segundoNombre": "Hermelinda",
+    "apellidoPaterno": "Velázquez",
+    "apellidoMaterno": "Chavarría"
+  },
+  "horasPracticas": 50,
+  "horasTeoricas": 20,
+  "creditos": 7
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c0216"
+  },
+  "nombre": "Locutor de televisión",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddabd"
+    },
+    "primerNombre": "Felipe",
+    "segundoNombre": "Augusto",
+    "apellidoPaterno": "Terrazas",
+    "apellidoMaterno": "Montoya"
   },
   "horasPracticas": 10,
-  "horasTeoricas": 20,
-  "creditos": 3
+  "horasTeoricas": 40,
+  "creditos": 9
 },
 {
   "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb872"
+    "$oid": "65e14acc949fd4cc027c0217"
   },
-  "nombre": "Operador de máquinas pulidoras, galvanizadoras y recubridoras de metales ",
+  "nombre": "Técnico en ingeniería mecánica",
   "maestro": {
-    "$oid": "65dd433fb399a55c909ef097"
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddaef"
+    },
+    "primerNombre": "Renato",
+    "segundoNombre": "Soledad",
+    "apellidoPaterno": "Espinal",
+    "apellidoMaterno": "Esquivel"
   },
-  "horasPracticas": 40,
+  "horasPracticas": 30,
   "horasTeoricas": 20,
-  "creditos": 3
+  "creditos": 6
 },
 {
   "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb873"
+    "$oid": "65e14acc949fd4cc027c0218"
   },
-  "nombre": "Director de políticas y planificación",
+  "nombre": "Gorjadore",
   "maestro": {
-    "$oid": "65dd433fb399a55c909ef07d"
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa3b"
+    },
+    "primerNombre": "Esteban",
+    "segundoNombre": "Jorge Luis",
+    "apellidoPaterno": "Fonseca",
+    "apellidoMaterno": "Toro"
+  },
+  "horasPracticas": 30,
+  "horasTeoricas": 30,
+  "creditos": 2
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c0219"
+  },
+  "nombre": "Ensamblador de equipos eléctricos",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11f9ed"
+    },
+    "primerNombre": "Adalberto",
+    "segundoNombre": "Agustín",
+    "apellidoPaterno": "Ulloa",
+    "apellidoMaterno": "Muñoz"
+  },
+  "horasPracticas": 20,
+  "horasTeoricas": 40,
+  "creditos": 1
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c021a"
+  },
+  "nombre": "Gestor de aduana",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa1b"
+    },
+    "primerNombre": "Roberto",
+    "segundoNombre": "Gabriel",
+    "apellidoPaterno": "Caldera",
+    "apellidoMaterno": "Vásquez"
+  },
+  "horasPracticas": 20,
+  "horasTeoricas": 50,
+  "creditos": 9
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c021b"
+  },
+  "nombre": "Operador de instalaciones mineras",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11f9f8"
+    },
+    "primerNombre": "Rosario",
+    "segundoNombre": "Irene",
+    "apellidoPaterno": "Elizondo",
+    "apellidoMaterno": "Urbina"
+  },
+  "horasPracticas": 20,
+  "horasTeoricas": 40,
+  "creditos": 5
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c021c"
+  },
+  "nombre": "Operador de instalaciones de procesamiento de metales",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11f9fd"
+    },
+    "primerNombre": "Anabel",
+    "segundoNombre": "Víctor",
+    "apellidoPaterno": "Colón",
+    "apellidoMaterno": "Esparza"
+  },
+  "horasPracticas": 10,
+  "horasTeoricas": 30,
+  "creditos": 1
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c021d"
+  },
+  "nombre": "Operador de máquinas de procesamiento de texto y mecanógrafos",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14aadb7058d2d8b11fa17"
+    },
+    "primerNombre": "Anel",
+    "segundoNombre": "Helena",
+    "apellidoPaterno": "Olivera",
+    "apellidoMaterno": "Zedillo"
+  },
+  "horasPracticas": 20,
+  "horasTeoricas": 40,
+  "creditos": 2
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c021e"
+  },
+  "nombre": "Empleado encargado de las nóminas",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4dda97"
+    },
+    "primerNombre": "Ruby",
+    "segundoNombre": "Humberto",
+    "apellidoPaterno": "Urbina",
+    "apellidoMaterno": "Fierro"
+  },
+  "horasPracticas": 10,
+  "horasTeoricas": 50,
+  "creditos": 9
+},
+{
+  "_id": {
+    "$oid": "65e14acc949fd4cc027c021f"
+  },
+  "nombre": "Ensamblador de maquinaria mecánica",
+  "maestro": {
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddac8"
+    },
+    "primerNombre": "Eduardo",
+    "segundoNombre": "Alfonso",
+    "apellidoPaterno": "González",
+    "apellidoMaterno": "Montez"
   },
   "horasPracticas": 20,
   "horasTeoricas": 30,
-  "creditos": 10
+  "creditos": 9
 },
 {
   "_id": {
-    "$oid": "65dd4355b0d8b3925e6bb874"
+    "$oid": "65e14acc949fd4cc027c0220"
   },
-  "nombre": "Inspector de policía",
+  "nombre": "Arquitecto",
   "maestro": {
-    "$oid": "65dd433fb399a55c909ef0b3"
+    "_id": {
+      "$oid": "65e14ab0b3cd3ec84a4ddabf"
+    },
+    "primerNombre": "Susana",
+    "segundoNombre": "César",
+    "apellidoPaterno": "Espinoza",
+    "apellidoMaterno": "Barrera"
   },
-  "horasPracticas": 20,
+  "horasPracticas": 30,
   "horasTeoricas": 20,
-  "creditos": 7
+  "creditos": 10
 }]
